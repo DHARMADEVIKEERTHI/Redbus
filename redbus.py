@@ -50,13 +50,9 @@ elif departing_time_choice != "All":
 else:
     filtered_data = data
 
-# Display filtered data
-st.subheader("Filtered Bus Details")
-st.dataframe(filtered_data)
-
-# Display the data in the main section
+# Display data
 st.subheader("Bus Details")
-st.dataframe(data)
+st.dataframe(filtered_data)
 
 cursor.close()
 db_connection.close()
