@@ -34,13 +34,32 @@ route_choice = st.sidebar.selectbox("Select Route (All Routes by Default)", opti
 bus_types = data['bus_type'].unique()
 bus_type_choice = st.sidebar.selectbox("Select Bus Type (All Types by Default)", options=["All"] + list(bus_types))
 
-# Apply filters (filter based on both route and bus type)
-if route_choice != "All" and bus_type_choice != "All":
+# Filter by Bus Timing (Make it optional, select all by default)
+departing_time = data['departing_time'].unique()
+departing_time_choice = st.sidebar.selectbox("Select Bus Timing (All Types by Default)", options=["All"] + list(departing_time))
+
+# Apply filters (filter based on both route, bus type and departing time)
+if route_choice != "All" and bus_type_choice != "All" and departing_time_choice != "All":
+    filtered_data = data[(data['route_name'] == route_choice) & (data['bus_type'] == bus_type_choice) & (data['departing_time'] == departing_time_choice)]
+    
+elif route_choice != "All" and bus_type_choice != "All":
     filtered_data = data[(data['route_name'] == route_choice) & (data['bus_type'] == bus_type_choice)]
+    
+elif route_choice != "All" and departing_time_choice != "All":
+    filtered_data = data[(data['route_name'] == route_choice) & (data['departing_time'] == departing_time_choice)]
+    
+elif departing_time_choice != "All" and bus_type_choice != "All":
+    filtered_data = data[(data['departing_time'] == departing_time_choice) & (data['bus_type'] == bus_type_choice)]
+    
 elif route_choice != "All":
     filtered_data = data[data['route_name'] == route_choice]
+    
 elif bus_type_choice != "All":
     filtered_data = data[data['bus_type'] == bus_type_choice]
+    
+elif departing_time_choice != "All":
+    filtered_data = data[data['departing_time'] == departing_time_choice]
+    
 else:
     filtered_data = data
 
