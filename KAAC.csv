@@ -1,1 +1,6 @@
-
+State,Route Name,Route Link,Bus Name,Bus Type,Departing Time,Duration,Reaching Time,Star Rating,Price,Seat Availability
+Assam,Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,NON A/C Seater Push Back (2+2),12:15,06h 15m,18:30,4.4,361,11 Seats available
+Assam,Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,NON A/C Seater Push Back (2+2),12:15,03h 45m,16:00,4.4,280,21 Seats available
+Assam,Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,NON A/C Seater Push Back (2+2),12:15,04h 00m,16:15,4.0,300,21 Seats available
+Assam,Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,NON A/C Seater Push Back (2+2),12:15,04h 15m,16:30,4.4,300,15 Seats available
+Assam,Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,NON A/C Seater Push Back (2+2),12:15,05h 45m,18:00,3.5,360,21 Seats available

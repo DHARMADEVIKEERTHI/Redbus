@@ -1,162 +1,305 @@
-Route Name,Route Link,Bus Name,Bus Type,Departing Time,Duration,Reaching Time,Star Rating,Price,Seat Availability
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) Tollygunge - Digha - 200|16:30,Non AC Seater (2+3),16:30,04h 15m,20:45,3.9,145,38 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,4.1,288,22 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(SNEHA GOLD),AC Seater (2+3),16:40,04h 30m,21:10,3.2,257,37 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,3.3,288,26 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sneha Gold Bus Service,A/C Seater (2+3),16:30,05h 00m,21:30,3.2,300,14 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:00,04h 45m,03:45,2.7,320,38 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,3.5,335,36 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,3.9,650,47 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),20:00,05h 35m,01:35,3.4,285,20 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Shinjini),AC Seater (2+3),23:35,04h 40m,04:15,2.5,378,28 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:00,05h 20m,04:20,2.2,352,25 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),18:10,05h 05m,23:15,2.1,238,31 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),21:00,06h 00m,03:00,1.6,238,15 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,A/C Seater / Sleeper (2+1),19:30,04h 29m,23:59,1.6,450,29 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:30,04h 10m,03:40,1.8,300,26 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater (2+3),23:30,04h 30m,04:00,2.1,333,45 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,1.9,335,30 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,AC Seater (2+3),18:00,04h 30m,22:30,2.4,352,41 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan - Parameswar,A/C Seater (2+3),18:00,04h 40m,22:40,2.4,285,24 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,A/C Seater (2+3),23:35,04h 55m,04:30,1.7,333,21 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,A/C Seater / Sleeper (2+2),18:35,04h 25m,23:00,1.5,450,20 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,AC Seater (2+3),17:00,04h 30m,21:30,1.9,257,36 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Bus Service,A/C Seater / Sleeper (2+2),23:00,05h 00m,04:00,1.2,550,68 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aniruddha Travels,NON A/C Seater Push Back (2+3) (2+3),16:25,04h 50m,21:15,1.0,270,30 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),18:20,04h 40m,23:00,2.3,300,61 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,Non AC Seater (2+3),21:45,05h 40m,03:25,1.5,450,19 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,Non AC Seater (2+3),18:20,04h 40m,23:00,2.8,285,41 Seats available
-Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Bus Service,Non AC Seater (2+3),16:50,05h 40m,22:30,1.1,350,44 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 23:30 (DIGHA DEPOT) - 3988,Non AC Seater (2+3),23:30,04h 30m,04:00,3.9,155,49 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745,Non AC Seater (2+3),23:45,04h 30m,04:15,4.2,155,10 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,4.5,350,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Express Line,Volvo 9600 A/C Seater (2+2),23:45,05h 00m,04:45,4.3,349,9 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,07h 30m,05:30,4.2,400,31 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,AdSagufta Travels (Santosh),A/C Seater / Sleeper (2+2),01:20,04h 10m,05:30,3.6,370,12 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,AC Seater (2+2),23:15,05h 15m,04:30,4.2,360,18 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Bhorpet Travels),AC Seater (2+2),23:55,04h 40m,04:35,4.5,338,24 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,4.3,384,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,A/C Seater (2+3),18:20,04h 30m,22:50,3.2,270,61 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:45,05h 15m,05:00,3.3,285,36 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Angel),A/C Seater (2+2),23:58,05h 12m,05:10,3.9,291,22 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater / Sleeper (2+2),23:59,05h 01m,05:00,3.5,303,34 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,2.9,285,49 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater Push Back (2+3),23:30,05h 00m,04:30,3.5,269,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),21:50,05h 55m,03:45,2.1,285,51 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,05h 01m,05:00,3.4,291,41 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Mayuri),A/C Seater (2+2),23:15,04h 45m,04:00,3.8,338,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (BHORPET),A/C Seater (2+3),17:40,04h 20m,22:00,1.7,270,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,04h 25m,22:25,3.6,352,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Janhabi),A/C Seater Push Back (2+3),16:45,04h 30m,21:15,3.8,291,24 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Bhorpet),AC Seater (2+2),23:55,04h 50m,04:45,3.5,320,29 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+3),23:50,05h 05m,04:55,2.9,333,35 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (ANGEL),A/C Seater Push Back (2+2),23:58,05h 02m,05:00,3.5,370,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Maity),A/C Seater (2+3),00:55,04h 55m,05:50,3.5,291,22 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),16:45,04h 35m,21:20,3.0,399,31 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.5,320,14 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Sagar Kanya),A/C Seater Push Back (2+3),23:30,04h 35m,04:05,2.5,291,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.9,320,12 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Samanta Travels,A/C Seater (2+3),18:50,04h 40m,23:30,2.2,300,61 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Pariseba(Santosh),AC Seater (2+3),18:30,05h 00m,23:30,3.0,352,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Samanta),A/C Seater (2+3),18:00,04h 50m,22:50,2.6,291,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05h 05m,05:00,3.0,319,36 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Haimanti Bus Service,AC Seater (2+3),19:50,05h 40m,01:30,1.8,350,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater Push Back (2+3),23:20,05h 10m,04:30,2.8,335,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Kojagor),A/C Seater Push Back (2+3),17:00,04h 50m,21:50,3.6,291,26 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan (Maity Motor),A/C Seater Push Back (2+3),22:20,04h 40m,03:00,3.2,380,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04h 40m,04:30,2.6,320,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Atithi),A/C Seater (2+3),23:55,05h 05m,05:00,4.5,399,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan( Haimanti),A/C Seater Push Back (2+3),19:50,04h 15m,00:05,3.0,428,41 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Arunita Paribahan,AC Seater (2+2),23:45,05h 00m,04:45,4.1,320,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SANTOSH BUS SERVICE,A/C Seater / Sleeper (2+2),01:20,04h 10m,05:30,2.0,349,41 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SANTOSH BUS SERVICE,AC Seater (2+3),23:50,05h 10m,05:00,2.7,350,38 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Samanta Travels,A/C Seater (2+3),18:10,05h 00m,23:10,2.3,300,16 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba,AC Seater (2+3),19:30,04h 40m,00:10,2.3,352,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,2.0,399,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Friends Travels,A/C Seater (2+3),23:55,05h 15m,05:10,2.8,324,26 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Kojagar Travels,A/C Seater (2+3),16:50,05h 10m,22:00,3.7,350,30 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,2.3,375,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Subhadip Travels(Kojagar),Non AC Seater (2+3),16:50,04h 40m,21:30,4.2,399,31 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Subhadip Travels,A/C Executive (2+3),17:20,04h 15m,21:35,4.2,399,46 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),22:40,06h 40m,05:20,3.2,399,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Parameswar),A/C Seater (2+3),21:50,04h 50m,02:40,3.2,428,15 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Anadi Travels (Disha Gold),A/C Seater Push Back (2+3),23:00,05h 40m,04:40,1.0,500,60 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba,AC Seater (2+3),19:05,04h 40m,23:45,2.8,352,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,West bengal transport corporation - 123496,Non AC Seater (2+3),16:15,04h 00m,20:15,3.9,145,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,West bengal transport corporation - 157764,Non AC Seater (2+3),17:15,04h 00m,21:15,3.1,145,33 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,04h 15m,03:45,4.7,350,21 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Express Line,Volvo 9600 A/C Seater (2+2),23:45,04h 20m,04:05,4.4,349,11 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,07h 10m,05:10,3.7,400,31 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Basu Travels,A/C Seater / Sleeper (2+2),23:59,04h 01m,04:00,4.2,303,34 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Mayuri Express,AC Seater (2+2),23:15,03h 45m,03:00,3.9,360,18 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Parameswar Travels,A/C Seater Push Back (2+3),23:59,04h 31m,04:30,3.0,285,49 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,04h 31m,04:30,3.0,291,41 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Mayuri Express,A/C Seater (2+3),18:20,04h 10m,22:30,3.6,270,61 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Sagar Kanya),A/C Seater Push Back (2+3),23:30,04h 30m,04:00,2.8,291,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (Shinjini),AC Seater (2+2),23:45,04h 15m,04:00,3.7,320,12 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04h 10m,04:00,3.0,320,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Pariseba(Santosh),AC Seater (2+3),18:30,03h 30m,22:00,2.2,352,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Samanta Travels,A/C Seater (2+3),18:50,03h 40m,22:30,3.8,300,61 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (BHORPET),AC Seater (2+3),17:40,04h 05m,21:45,3.7,270,31 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan (BHORPET),A/C Seater (2+3),17:40,03h 35m,21:15,2.8,270,25 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (Shinjini),AC Seater (2+3),23:50,04h 20m,04:10,3.7,333,35 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Parameswar Travels,A/C Seater Push Back (2+3),21:50,05h 10m,03:00,3.0,285,51 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Parameswar Travels,A/C Seater Push Back (2+3),23:45,04h 45m,04:30,3.0,285,42 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan (Bhorpet),AC Seater (2+2),23:55,04h 20m,04:15,2.8,320,29 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Ankita Paribahan (Maity Motor),A/C Seater Push Back (2+3),22:20,04h 00m,02:20,3.4,380,25 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),16:45,03h 55m,20:40,3.4,399,31 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Mayuri),A/C Seater (2+2),23:15,04h 30m,03:45,3.3,338,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan (Shinjini),AC Seater (2+2),23:45,04h 15m,04:00,2.8,320,14 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Samanta),A/C Seater (2+3),18:00,04h 00m,22:00,3.3,291,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Maity),A/C Seater (2+3),00:55,04h 35m,05:30,3.3,291,22 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Bengal Surface Transport,A/C Seater Push Back (2+3),23:59,04h 01m,04:00,2.1,319,61 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Kojagor),A/C Seater Push Back (2+3),17:00,04h 30m,21:30,3.3,291,26 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Bhorpet Travels),AC Seater (2+2),23:55,04h 20m,04:15,3.3,338,24 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Angel),A/C Seater (2+2),23:58,04h 42m,04:40,3.3,291,22 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,04h 30m,04:27,4.5,384,35 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Haimanti Bus Service,AC Seater (2+3),19:50,05h 10m,01:00,3.0,350,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Samanta Travels,A/C Seater (2+3),18:10,04h 50m,23:00,3.4,300,16 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Basu Travels,A/C Seater Push Back (2+3),23:30,03h 35m,03:05,2.9,269,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan (ANGEL),A/C Seater Push Back (2+2),23:58,04h 02m,04:00,2.8,370,25 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Arunita Paribahan,AC Seater (2+2),23:45,04h 15m,04:00,2.7,333,21 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,04h 15m,22:15,2.6,352,25 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Subhadip Travels,A/C Executive (2+3),17:20,03h 30m,20:50,4.2,399,46 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Subhadip Travels(Kojagar),Non AC Seater (2+3),16:50,04h 20m,21:10,4.2,399,31 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Bengal Surface Transport,A/C Seater Push Back (2+3),23:20,03h 55m,03:15,2.1,419,21 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Basu Travels,A/C Seater Push Back (2+3),23:55,03h 35m,03:30,2.9,375,21 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),22:40,05h 50m,04:30,3.4,399,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Ankita Paribahan(Atithi),A/C Seater (2+3),23:55,04h 35m,04:30,3.4,399,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Ankita Paribahan( Haimanti),A/C Seater Push Back (2+3),19:50,03h 50m,23:40,3.4,428,41 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,04h 05m,04:00,2.1,319,35 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Ankita Paribahan(Parameswar),A/C Seater (2+3),21:50,04h 10m,02:00,3.4,428,15 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Santosh),A/C Seater / Sleeper (2+2),01:20,03h 35m,04:55,3.3,370,12 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Anadi Travels (Disha Gold),A/C Seater Push Back (2+3),23:00,05h 30m,04:30,1.0,500,60 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Friends Travels,A/C Seater (2+3),23:55,04h 45m,04:40,2.8,324,26 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Parisheba,AC Seater (2+3),19:05,04h 10m,23:15,2.6,352,20 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Pariseba(Santosh),AC Seater (2+3),19:05,03h 55m,23:00,2.6,352,15 Seats available
-Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Parisheba,AC Seater (2+3),19:30,04h 10m,23:40,2.6,352,20 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),18:05,04h 25m,22:30,3.6,335,36 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Sneha Gold Bus Service,A/C Seater (2+3),17:10,04h 20m,21:30,3.1,300,14 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),18:05,04h 25m,22:30,2.7,335,30 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),18:30,04h 45m,23:15,1.4,238,31 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba(SNEHA GOLD),AC Seater (2+3),17:10,04h 00m,21:10,1.5,257,37 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Aradhana Travels,Non AC Seater (2+3),22:15,05h 10m,03:25,3.3,450,19 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),22:05,04h 55m,03:00,1.8,238,15 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Shinjini),AC Seater (2+3),23:15,04h 55m,04:10,2.9,288,26 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Satya Paribahan,A/C Seater (2+3),19:00,04h 00m,23:00,3.1,300,61 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),20:55,04h 40m,01:35,1.8,285,20 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:40,04h 05m,03:45,3.1,320,38 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:15,04h 55m,04:10,2.5,288,22 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Aradhana Travels,A/C Seater / Sleeper (2+1),20:00,03h 59m,23:59,3.3,450,29 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:40,04h 40m,04:20,2.8,352,25 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan (Maity Motor),AC Seater (2+3),16:30,03h 45m,20:15,1.6,285,41 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan - Parameswar,A/C Seater (2+3),18:40,04h 00m,22:40,1.5,285,24 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Aniruddha Travels,NON A/C Seater Push Back (2+3) (2+3),16:50,04h 25m,21:15,1.2,270,30 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan (Lokenath),AC Seater (2+3),17:00,04h 00m,21:00,2.6,352,41 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan (Shinjini),AC Seater (2+3),23:59,04h 16m,04:15,2.5,378,28 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba,AC Seater (2+3),17:40,03h 50m,21:30,2.8,257,36 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:59,04h 31m,04:30,2.8,352,45 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba,AC Seater (2+3),18:30,04h 00m,22:30,2.8,352,41 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan,Non AC Seater (2+3),19:00,04h 00m,23:00,2.6,285,41 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Aradhana Bus Service,A/C Seater / Sleeper (2+2),23:20,04h 40m,04:00,2.4,550,68 Seats available
-Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Aradhana Bus Service,Non AC Seater (2+3),17:20,05h 10m,22:30,2.4,350,46 Seats available
+State,Route Name,Route Link,Bus Name,Bus Type,Departing Time,Duration,Reaching Time,Star Rating,Price,Seat Availability
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 05:30 (KALNA DEPOT) - 3646,Non AC Seater (2+3),05:30,04h 30m,10:00,4.2,155,31 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 05:40 (ARM DEPOR) - 897,Non AC Seater (2+3),05:40,04h 30m,10:10,3.5,155,48 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BARASAT - 06:00 (DIGHA DEPOT) - 853,Non AC Seater (2+3),06:00,04h 30m,10:30,4.1,155,7 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 06:30 (KHRP DEPOT) - 2776,Non AC Seater (2+3),06:30,04h 30m,11:00,3.7,155,32 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 07:20 (MID DEPOT) - 3149,Non AC Seater (2+3),07:20,04h 30m,11:50,3.2,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 07:40 (KALNA DEPOT) - 3825,Non AC Seater (2+3),07:40,04h 30m,12:10,2.7,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 08:00 (ARM DEPOT) - 720,Non AC Seater (2+3),08:00,04h 30m,12:30,3.9,155,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - CONTAI - 08:10 - 507,Non AC Seater (2+3),08:10,05h 30m,13:40,4.1,162,41 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 08:35 (MID DEPOT) - 3157,Non AC Seater (2+3),08:35,04h 30m,13:05,3.2,155,50 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - 09:25 (DIGHA DEPOT) - 3753,Non AC Seater (2+3),09:25,04h 30m,13:55,3.9,155,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - HABRA - 09:45 (DIG DEPOT) - 3700,Non AC Seater (2+3),09:45,04h 30m,14:15,3.7,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - 10:00 (DIGHA DEPOT) - 4015,Non AC Seater (2+3),10:00,04h 30m,14:30,3.5,155,50 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BARASAT - 10:20 - 508,Non AC Seater (2+3),10:20,04h 30m,14:50,2.9,155,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - 10:30 (DIGHA DEPOT) - 2680,Non AC Seater (2+3),10:30,04h 30m,15:00,3.8,155,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BELGHARIA - 10:40 (BEL DEPOT) - 1363,Non AC Seater (2+3),10:40,05h 00m,15:40,2.8,155,50 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 11:10 (HWH DEPOT) - 536,Non AC Seater (2+3),11:10,04h 30m,15:40,2.5,155,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BELGHARIA - 11:15 (BEL DEPOT) - 3713,Non AC Seater (2+3),11:15,05h 00m,16:15,3.0,155,50 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - THAKURPUKUR - 11:20 (DIGHA DEPOT) - 775,Non AC Seater (2+3),11:20,12h 40m,00:00,4.0,170,47 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BADAMTALA - 11:30 (BEL DEPOT) - 514,Non AC Seater (2+3),11:30,05h 00m,16:30,3.1,154,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - FALTA - VIA - KOLKATA - 11:35 (FALTA DEPOT - 3703,Non AC Seater (2+3),11:35,04h 30m,16:05,2.9,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 11:50 (HWH DEPOT) - 1354,Non AC Seater (2+3),11:50,04h 30m,16:20,2.7,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BELGHORIA - 12:00 (BEL DEPOT) - 537,Non AC Seater (2+3),12:00,04h 30m,16:30,4.4,153,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - CONTAI - 12:10 - 773,Non AC Seater (2+3),12:10,04h 30m,16:40,4.2,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BIRATI - 12:20 (BEL DEPOT) - 772,Non AC Seater (2+3),12:20,05h 00m,17:20,3.5,155,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - FALTA - VIA - KOLKATA - 12:35 (FALTA DEPOT - 3705,Non AC Seater (2+3),12:35,11h 25m,00:00,3.5,160,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - NAIHATI - 12:40 (BEL DEPOT) - 3693,Non AC Seater (2+3),12:40,05h 00m,17:40,4.5,154,51 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 12:50 (HOWRAH) - 829,Non AC Seater (2+3),12:50,04h 30m,17:20,2.9,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BARUIPUR - 13:00 (DIGHA DEPOT) - 515,Non AC Seater (2+3),13:00,04h 30m,17:30,2.4,155,48 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BELGHARIA - A/C - 13:00 (BEL DEPOT) - 1577,AC Seater (2+2),13:00,05h 00m,18:00,4.0,310,37 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - DUMDUM - 13:10 VIA - DUNLOP - (BEL DEPOT) - 525,Non AC Seater (2+3),13:10,04h 30m,17:40,4.1,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KHARDAH - 13:20 (BEL DEPOT) - 521,Non AC Seater (2+3),13:20,05h 00m,18:20,2.2,154,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - FALTA - VIA - KOLKATA - 13:20 (FALTA DEPOT - 518,Non AC Seater (2+3),13:20,10h 40m,00:00,3.5,160,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 13:30 (HWH DEPOT) - 1811,Non AC Seater (2+3),13:30,04h 30m,18:00,3.0,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - HABRA - 13:40 (DIGHA DEPOT) - 522,Non AC Seater (2+3),13:40,04h 30m,18:10,3.5,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - FALTA - VIA - KOLKATA - 13:45 - 513,Non AC Seater (2+3),13:45,04h 30m,18:15,2.8,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KARUNAMOYEE - 13:50 (BEL DEPOT) - 1446,Non AC Seater (2+3),13:50,04h 30m,18:20,2.9,155,35 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - NEW BARRACKPUR - 14:00 (BEL DEPOT) - 1698,Non AC Seater (2+3),14:00,04h 30m,18:30,3.0,153,51 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - NAIHATI - 14:10 (BEL DEPOT) - 3694,Non AC Seater (2+3),14:10,05h 00m,19:10,3.1,154,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BELGHARIA - EXPRESS 2/2 SEAT - 14:15 (BEL - 3835,Express (Non AC Seater 2+2),14:15,05h 00m,19:15,3.5,210,35 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - BARASAT - 14:20 (DIGHA DEPOT) - 516,Non AC Seater (2+3),14:20,04h 30m,18:50,4.1,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KARUNAMOYEE - A/C - 14:30 (DIGHA DEPOT) - 3962,AC Seater (2+2),14:30,05h 00m,19:30,2.6,360,37 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - THAKURPUR - 14:30 (DIG DEPOT) - 839,Non AC Seater (2+3),14:30,04h 30m,19:00,3.3,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - KOLKATA - 14:40 (FALTA DEPOT - 3489,Non AC Seater (2+3),14:40,05h 30m,20:10,3.1,162,51 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - A/C - 14:50 (DIG DEPOT) - 735,AC Seater (2+2),14:50,04h 30m,19:20,3.2,310,37 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - KOLKATA - 15:10 - 734,Non AC Seater (2+3),15:10,04h 30m,19:40,3.1,155,48 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KARUNAMOYEE - VIA DUNLOP - 15:20 (DIGHA) - 3244,Non AC Seater (2+3),15:20,05h 00m,20:20,3.4,170,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KUDGHAT - VIA - KOLKATA - 15:30 (DIGHA) - 2684,Non AC Seater (2+3),15:30,04h 30m,20:00,3.5,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - KOLKATA - 16:40 (FALTA DEPOT - 3704,Non AC Seater (2+3),16:40,05h 30m,22:10,3.5,162,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 17:15 (DIGHA DEPOT) - 1158,Non AC Seater (2+3),17:15,04h 30m,21:45,2.9,155,52 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),13:45,04h 30m,18:15,4.5,499,32 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),13:30,04h 55m,18:25,4.5,476,10 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Mayuri Express,A/C Seater (2+3),11:15,04h 45m,16:00,4.3,270,59 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Greenline,Volvo A/C Seater (2+2),13:40,04h 45m,18:25,4.2,350,20 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Mayuri Express,AC Seater (2+2),10:30,05h 00m,15:30,3.9,297,44 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),09:50,05h 30m,15:20,3.8,366,15 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Express Line,Volvo 9600 A/C Semi Sleeper (2+2),10:25,04h 55m,15:20,4.0,399,45 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Monikanchan Bus Service,A/C Seater (2+3),13:30,04h 15m,17:45,4.5,338,54 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Samanta Travels,A/C Seater (2+3),14:30,04h 50m,19:20,3.3,300,20 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Maa Chandi Travels,A/C Seater / Sleeper (2+2),12:35,04h 40m,17:15,3.8,300,15 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater / Sleeper (2+2),10:55,05h 00m,15:55,3.8,399,35 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,3.7,333,26 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,3.8,333,25 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,AC Seater (2+3),11:10,04h 25m,15:35,4.0,338,14 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,AC Seater (2+3),11:35,04h 50m,16:25,3.6,320,11 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Haimanti Bus Service,AC Seater (2+3),05:40,04h 50m,10:30,3.1,250,18 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater / Sleeper (2+2),10:55,05h 00m,15:55,3.9,375,30 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:00,04h 45m,03:45,3.0,320,35 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sree Jagannath Travels,A/C Seater Push Back (2+3),15:00,05h 00m,20:00,3.3,250,24 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),13:35,04h 15m,17:50,3.1,270,41 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SANTOSH BUS SERVICE,AC Seater (2+3),04:30,04h 30m,09:00,4.7,400,28 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sneha Gold Bus Service,A/C Seater (2+3),16:30,05h 00m,21:30,3.2,300,20 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),09:30,04h 45m,14:15,2.8,340,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,4.2,650,53 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Maa Gouri),AC Seater (2+3),04:57,04h 28m,09:25,3.4,320,20 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba (Manikanchan),AC Seater (2+3),12:20,04h 25m,16:45,3.1,333,16 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Jackson),AC Seater (2+2),13:40,04h 50m,18:30,3.0,370,24 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Snemita),AC Seater (2+3),11:45,04h 40m,16:25,2.9,320,41 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Angel),AC Seater (2+3),13:50,04h 40m,18:30,2.8,370,30 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba (Santosh),AC Seater (2+3),10:55,04h 35m,15:30,3.2,288,27 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Snemita),AC Seater (2+3),11:10,04h 20m,15:30,3.5,338,26 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Haimanti),A/C Seater Push Back (2+3),06:00,04h 30m,10:30,2.9,270,33 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),12:15,04h 30m,16:45,2.9,270,41 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater / Sleeper (2+2),12:35,05h 00m,17:35,2.7,378,49 Seats available
+WBT,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Atithi),A/C Seater (2+3),10:45,05h 00m,15:45,2.9,270,41 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 04:00 (DIGHA DEPOT) - 911,Non AC Seater (2+3),04:00,20h 00m,00:00,3.9,162,31 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 04:30 (DIGHA DEPOT) - 1216,Non AC Seater (2+3),04:30,19h 30m,00:00,2.9,162,51 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 05:00 (DIGHA DEPOT) - 910,Non AC Seater (2+3),05:00,19h 00m,00:00,4.2,162,13 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BELGHARIA - DIGHA - 05:15 (BEL DEPOT) - 1362,Non AC Seater (2+3),05:15,04h 30m,09:45,3.9,155,5 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 06:00 (HWH DEPOT) - 1001,Non AC Seater (2+3),06:00,04h 30m,10:30,3.2,155,47 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BADAMTALA - DIGHA - 05:30 - 905,Non AC Seater (2+3),06:00,04h 30m,10:30,3.2,154,19 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 06:15 (DIGHA) - 1760,Non AC Seater (2+3),06:15,05h 00m,11:15,3.9,170,3 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BELGHARIA - DIGHA - 06:30 (BEL DEPOT) - 900,Non AC Seater (2+3),06:30,04h 30m,11:00,3.8,155,22 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 06:30 (FALTA DEPOT) - 909,Non AC Seater (2+3),06:30,17h 30m,00:00,4.1,162,34 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 06:30 (HWH DEPOT) - 613,Non AC Seater (2+3),06:30,04h 30m,11:00,3.3,155,48 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BIRATI - DIGHA - 06:00 - 904,Non AC Seater (2+3),06:45,04h 30m,11:15,4.7,154,44 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BARUIPUR - DIGHA - 06:15 (DIGHA DEPOT) - 549,Non AC Seater (2+3),06:50,17h 10m,00:00,3.7,162,44 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 07:00 (HWH DEPOT) - 614,Non AC Seater (2+3),07:00,04h 30m,11:30,3.5,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KHARDAH - DIGHA - VIA - BELGHORIA - 06.30 - 901,Non AC Seater (2+3),07:00,04h 30m,11:30,2.5,154,29 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KARUNAMOYEE - DIGHA - A/C - 07:00 (DIGHA DEPOT) - 3961,AC Seater (2+2),07:00,05h 00m,12:00,3.0,360,30 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 07:15 (BEL) - 1445,Non AC Seater (2+3),07:15,05h 00m,12:15,3.7,170,6 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - A/C - 07:15 (DIG DEPOT) - 1138,AC Seater (2+2),07:15,16h 45m,00:00,2.5,320,37 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BELGHARIA - DIGHA - A/C - 07:20 (BEL DEPOT) - 1576,AC Seater (2+2),07:20,04h 30m,11:50,4.2,310,23 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 07:30 (HWH DEPOT) - 616,Non AC Seater (2+3),07:30,04h 30m,12:00,3.5,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BELGHARIA - DIGHA - 07:45 (BEL DEPOT) - 947,Non AC Seater (2+3),07:45,04h 30m,12:15,3.8,155,45 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 05:00 (FALTA DEPOT - 1404,Non AC Seater (2+3),07:50,04h 30m,12:20,2.2,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-BELGHARIA - DIGHA - EXPRESS 2/2 SEAT - 08:10 (BEL - 3834,Express (Non AC Seater 2+2),08:10,04h 30m,12:40,3.6,210,35 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 08:30 (MID DEPOT) - 3360,Non AC Seater (2+3),08:30,04h 30m,13:00,3.8,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 09:00 (KALNA DEPOT) - 3645,Non AC Seater (2+3),09:00,04h 30m,13:30,3.6,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 06:00 (FALTA DEPOT - 3488,Non AC Seater (2+3),09:15,04h 30m,13:45,2.2,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 10:00 (KHIRPAI DEPOT) - 3506,Non AC Seater (2+3),10:00,04h 30m,14:30,3.0,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 07:00 (FALTA DEPOT - 547,Non AC Seater (2+3),10:15,04h 30m,14:45,2.8,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 10:30 (MID DEPOT) - 3363,Non AC Seater (2+3),10:30,04h 30m,15:00,3.6,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-ARAMBAG - DIGHA - VIA - KOLKATA - 07:40 - 1307,Non AC Seater (2+3),10:45,04h 30m,15:15,3.3,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 11:45 (KALNA DEPOT) - 3822,Non AC Seater (2+3),11:45,04h 30m,16:15,4.1,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 13:45 (MID DEPOT) - 971,Non AC Seater (2+3),13:45,04h 30m,18:15,2.7,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 15:15 (DIGHA DEPOT) - 543,Non AC Seater (2+3),15:15,08h 45m,00:00,4.8,162,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 23:30 (DIGHA DEPOT) - 3988,Non AC Seater (2+3),23:30,04h 30m,04:00,4.0,155,49 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745,Non AC Seater (2+3),23:45,04h 30m,04:15,4.2,155,52 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,4.6,678,32 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),07:30,04h 25m,11:55,4.5,349,23 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),08:15,04h 30m,12:45,4.3,366,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Express Line,VE A/C Seater (2+2),23:45,05h 00m,04:45,4.2,319,49 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,07h 30m,05:30,4.2,400,29 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,AC Seater (2+2),23:15,05h 15m,04:30,4.1,360,23 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Jay Baba Bhutnath,A/C Seater (2+3),08:30,04h 30m,13:00,4.4,333,24 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (SHINJINI),AC Seater (2+3),06:39,04h 31m,11:10,4.2,279,28 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Maa Chandi)),A/C Push Back (2+3),06:21,04h 29m,10:50,4.3,270,36 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),13:10,04h 46m,17:56,4.0,238,46 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,4.2,347,29 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,4.2,400,34 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Snemita),AC Seater (2+3),05:35,04h 30m,10:05,4.1,279,29 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Greenline,Volvo A/C Seater (2+2),06:45,05h 00m,11:45,4.3,300,28 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,3.2,238,49 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:45,05h 15m,05:00,3.2,238,51 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (SHINJINI),A/C Seater (2+3),05:50,04h 30m,10:20,3.5,270,30 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan,Non AC Seater (2+3),05:00,04h 45m,09:45,3.6,198,41 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),07:35,04h 40m,12:15,3.3,238,36 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Monikanchan Bus Service,A/C Seater (2+3),07:00,04h 15m,11:15,4.1,338,18 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Samanta Travels,A/C Seater (2+3),08:40,04h 30m,13:10,3.2,300,18 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater / Sleeper (2+2),23:59,05h 01m,05:00,3.5,319,34 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Angel),A/C Seater (2+2),23:58,05h 12m,05:10,4.2,299,24 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Monikanchan Bus Service,A/C Seater (2+3),07:15,04h 35m,11:50,3.5,338,37 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Arunita Paribahan,A/C Seater (2+3),06:05,04h 25m,10:30,4.1,270,21 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Monikanchan Bus Service,Non AC Seater (2+3),06:00,04h 20m,10:20,3.9,194,43 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,A/C Seater (2+3),18:20,04h 30m,22:50,3.9,270,61 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Bhorpet),AC Seater (2+2),23:55,04h 50m,04:45,3.7,320,29 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan(JACKSON),A/C Push Back (2+3),06:05,04h 25m,10:30,3.4,270,15 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan (Satya),A/C Seater Push Back (2+3),07:20,04h 15m,11:35,3.1,288,21 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,ADHIKARY PARIBAHAN,A/C Seater (2+3),15:15,04h 45m,20:00,3.8,246,34 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Sonamoni),A/C Seater Push Back (2+3),11:20,05h 00m,16:20,3.6,299,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan(Snemita),AC Seater (2+3),05:55,04h 31m,10:26,4.1,338,26 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Angel),A/C Seater (2+3),08:30,04h 30m,13:00,3.7,320,15 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express,AC Seater (2+3),07:00,04h 10m,11:10,3.5,338,28 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Mayuri),A/C Seater (2+2),23:15,04h 45m,04:00,3.8,347,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan,AC Seater (2+3),06:30,04h 40m,11:10,3.7,338,25 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Satya),A/C Seater Push Back (2+3),07:20,04h 40m,12:00,3.5,299,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Ruposhi),AC Seater (2+3),15:55,04h 55m,20:50,3.4,270,30 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.4,320,16 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,04h 25m,22:25,3.6,333,25 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Maa Chandi),A/C Seater Push Back (2+3),06:20,04h 40m,11:00,3.3,291,25 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+2),06:50,04h 45m,11:35,2.9,285,42 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,2.4,285,49 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan(Maa Gauri Gold),AC Seater (2+3),11:00,04h 45m,15:45,2.7,270,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),00:35,05h 00m,05:35,1.8,285,51 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),10:10,04h 46m,14:56,2.0,238,51 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (BHORPET),A/C Seater (2+3),17:40,04h 20m,22:00,1.6,270,25 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (BHORPET),AC Seater (2+3),17:40,04h 20m,22:00,1.7,270,31 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),21:50,05h 55m,03:45,2.2,285,51 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Maa Gouri),AC Seater (2+3),12:40,04h 30m,17:10,2.6,270,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan(Maa Chandi),AC Seater (2+3),13:35,04h 30m,18:05,1.2,270,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Subhadip Travels,A/C Executive (2+3),15:30,05h 00m,20:30,2.8,288,60 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba (Sneha Gold),AC Seater (2+3),09:15,04h 30m,13:45,3.6,342,23 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.9,320,12 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Sneha),A/C Seater (2+3),09:10,04h 30m,13:40,3.1,299,25 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05h 05m,05:00,3.0,440,37 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+3),23:50,05h 05m,04:55,2.8,333,35 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Jackson),A/C Seater (2+2),08:00,04h 40m,12:40,4.0,347,20 Seats available
+WBT,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Maity),A/C Seater (2+3),00:55,04h 55m,05:50,3.1,299,30 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,West bengal transport corporation - 75458,Non AC Seater (2+3),05:15,04h 05m,09:20,2.7,145,17 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,West bengal transport corporation - 74675,Non AC Seater (2+3),06:30,04h 00m,10:30,1.3,145,12 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,West bengal transport corporation - 158794,Non AC Seater (2+3),07:15,05h 15m,12:30,4.6,160,26 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,West bengal transport corporation - 74747,Non AC Seater (2+3),10:10,04h 20m,14:30,2.2,145,21 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),14:30,03h 45m,18:15,4.7,499,34 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),10:35,04h 45m,15:20,4.4,366,15 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),14:15,04h 10m,18:25,4.3,476,10 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Greenline,Volvo A/C Seater (2+2),14:10,04h 15m,18:25,4.0,300,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Mayuri Express,AC Seater (2+2),11:20,04h 10m,15:30,4.1,297,44 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Express Line,Volvo 9600 A/C Semi Sleeper (2+2),11:10,04h 10m,15:20,4.0,399,26 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Mayuri Express,A/C Seater (2+3),11:45,04h 15m,16:00,4.0,270,59 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Monikanchan Bus Service,A/C Seater (2+3),14:10,03h 35m,17:45,4.3,338,54 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),14:05,03h 45m,17:50,4.9,270,41 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Bengal Surface Transport,A/C Seater / Sleeper (2+2),11:40,04h 15m,15:55,3.2,399,35 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Samanta Travels,A/C Seater (2+3),15:15,04h 05m,19:20,2.8,300,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Jackson),AC Seater (2+2),14:15,04h 00m,18:15,3.5,370,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan,AC Seater (2+3),12:25,04h 00m,16:25,3.1,320,11 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan (Maity Motor),A/C Seater Push Back (2+3),13:45,03h 45m,17:30,3.3,270,38 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Shinjini),AC Seater (2+3),16:00,03h 55m,19:55,3.2,320,25 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),12:55,03h 50m,16:45,2.9,270,41 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan,A/C Seater / Sleeper (2+2),13:30,04h 05m,17:35,3.3,378,49 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba (Santosh),AC Seater (2+3),11:35,03h 55m,15:30,2.7,288,27 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Sneha Gold Bus Service,A/C Seater (2+3),17:10,04h 20m,21:30,3.1,300,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan,AC Seater (2+3),13:00,03h 40m,16:40,3.2,378,56 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Maa Chandi Travels,A/C Seater / Sleeper (2+2),13:20,03h 55m,17:15,2.7,400,15 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba (Manikanchan),AC Seater (2+3),12:50,03h 55m,16:45,2.7,333,16 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Monikanchan Bus Service,A/C Seater (2+3),13:10,03h 30m,16:40,3.1,338,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express,AC Seater (2+3),12:25,04h 00m,16:25,2.9,320,22 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan(SHINJINI),A/C Seater (2+3),16:40,03h 50m,20:30,1.1,378,30 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan(Parameswar),AC Seater (2+2),11:00,03h 40m,14:40,2.1,360,38 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),09:30,03h 55m,13:25,1.7,333,31 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),08:15,04h 09m,12:24,2.4,276,36 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Haimanti Bus Service,AC Seater (2+3),06:35,03h 55m,10:30,1.9,250,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Shinjini),AC Seater (2+3),16:40,03h 50m,20:30,2.9,320,26 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan(Parameswar),A/C Seater (2+3),10:10,03h 45m,13:55,2.0,360,36 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),11:00,04h 30m,15:30,2.3,319,31 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Basu Travels,A/C Seater / Sleeper (2+2),11:40,04h 15m,15:55,1.9,375,34 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+2),18:30,04h 30m,23:00,2.1,340,26 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan (City Service),A/C Push Back (2+3),08:05,04h 05m,12:10,1.6,320,24 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan(Atithi),A/C Seater (2+3),11:25,04h 20m,15:45,2.1,270,41 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Sree Jagannath Travels,A/C Seater Push Back (2+3),14:30,04h 00m,18:30,1.9,250,29 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),09:50,04h 25m,14:15,1.6,340,51 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (SONAMONI),AC Seater (2+3),06:45,04h 00m,10:45,2.4,320,31 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan (Angel),AC Seater (2+3),14:30,04h 00m,18:30,2.1,370,30 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Samanta Travels,A/C Seater (2+3),09:40,04h 00m,13:40,1.8,300,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Angel),AC Seater (2+3),14:30,04h 00m,18:30,1.5,370,30 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Pariseba(Samanta),AC Seater (2+3),09:45,04h 00m,13:45,1.0,243,41 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,SANTOSH BUS SERVICE,AC Seater (2+3),05:15,04h 35m,09:50,3.7,400,39 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,SANTOSH BUS SERVICE,AC Seater (2+3),05:15,03h 45m,09:00,3.7,400,38 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Sandhya Travels,A/C Seater Push Back (2+3),12:50,04h 35m,17:25,3.3,350,50 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba(SANTOSH),A/C Seater / Sleeper (2+2),12:45,03h 55m,16:40,3.2,270,31 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Adhikary Paribahan,A/C Seater Push Back (2+3),08:25,03h 50m,12:15,3.7,255,17 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Monikanchan Bus Service,Non AC Seater (2+3),12:25,03h 50m,16:15,4.2,194,47 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:40,04h 05m,03:45,3.2,320,35 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Bhorpet),AC Seater (2+2),09:50,04h 00m,13:50,4.0,370,16 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Parisheba(Santosh),AC Seater (2+3),12:10,03h 30m,15:40,3.5,333,31 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Satya Paribahan,A/C Seater (2+3),00:10,03h 30m,03:40,3.2,320,45 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,ADHIKARY PARIBAHAN,A/C Seater (2+3),08:30,04h 05m,12:35,4.4,263,23 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Maa Chandi),A/C Executive (2+3),08:00,04h 05m,12:05,3.0,320,21 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Maa Gouri),AC Seater (2+3),05:25,04h 00m,09:25,3.0,320,20 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (ANGEL),AC Seater (2+2),10:50,03h 55m,14:45,3.0,370,19 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Maa Chandi),A/C Executive (2+3),12:40,04h 05m,16:45,3.0,320,26 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Shinjini),AC Seater (2+3),23:15,04h 55m,04:10,3.0,333,26 Seats available
+WBT,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Pariseba(Santosh),AC Seater (2+3),10:30,04h 00m,14:30,3.9,288,31 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,West bengal transport corporation - 74722,Non AC Seater (2+3),05:15,04h 05m,09:20,4.0,145,31 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,West bengal transport corporation - 123496,Non AC Seater (2+3),16:15,04h 00m,20:15,3.9,145,23 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,West bengal transport corporation - 157764,Non AC Seater (2+3),17:15,04h 00m,21:15,3.1,145,33 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),08:15,03h 45m,12:00,4.5,366,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),07:30,03h 40m,11:10,4.4,349,27 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,04h 15m,03:45,4.8,678,30 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Greenline,Volvo A/C Seater (2+2),06:45,04h 10m,10:55,4.5,300,30 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Samanta Travels,A/C Seater (2+3),08:40,04h 00m,12:40,3.8,300,18 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Express Line,VE A/C Seater (2+2),23:45,04h 20m,04:05,4.5,319,49 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),06:45,04h 30m,11:15,3.4,462,51 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Jackson),A/C Seater (2+2),08:00,04h 00m,12:00,4.3,347,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sandhya Travels,A/C Seater Push Back (2+3),07:15,04h 30m,11:45,3.1,250,36 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Jay Baba Bhutnath,A/C Seater (2+3),08:30,04h 00m,12:30,4.2,333,24 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan(Snemita),AC Seater (2+3),05:55,04h 05m,10:00,4.5,338,26 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express,AC Seater (2+3),07:00,03h 30m,10:30,5.0,338,31 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,07h 10m,05:10,3.7,400,34 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Basu Travels,A/C Seater / Sleeper (2+2),23:59,04h 01m,04:00,4.5,319,34 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Maa Chandi Travels,A/C Seater / Sleeper (2+2),23:57,04h 23m,04:20,3.9,400,34 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,04h 30m,04:27,4.5,347,35 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Satya),A/C Seater Push Back (2+3),06:50,04h 00m,10:50,3.8,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Parisheba (Manikanchan),AC Seater (2+3),06:35,04h 15m,10:50,3.6,333,16 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (SHINJINI),AC Seater (2+3),06:39,04h 01m,10:40,4.1,279,28 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Shinjini),A/C Seater (2+3),06:40,04h 00m,10:40,3.5,347,25 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Samanta),A/C Seater Push Back (2+3),08:40,03h 50m,12:30,3.1,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Mayuri Express,AC Seater (2+2),23:15,03h 45m,03:00,3.9,360,23 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Kojagor),A/C Seater (2+3),15:50,04h 00m,19:50,3.1,299,10 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Sneha),A/C Seater (2+3),09:10,04h 00m,13:10,3.0,299,25 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Maa Chandi),A/C Seater Push Back (2+3),06:20,04h 00m,10:20,3.5,291,25 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Parameswar Travels,A/C Seater Push Back (2+3),07:35,04h 10m,11:45,2.9,238,36 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,04h 31m,04:30,3.0,299,41 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Satya Paribahan,A/C Seater (2+3),06:50,04h 10m,11:00,3.4,320,37 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Shinjini),A/C Seater (2+3),05:50,03h 55m,09:45,2.8,338,25 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Parameswar Travels,A/C Seater Push Back (2+3),23:59,04h 31m,04:30,3.0,238,49 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Jagannath),A/C Seater Push Back (2+3),08:20,04h 00m,12:20,2.7,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04h 10m,04:00,3.0,320,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Parisheba (Sneha Gold),AC Seater (2+3),09:15,04h 00m,13:15,2.9,342,26 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Parameswar Travels,A/C Seater Push Back (2+2),06:50,04h 10m,11:00,2.7,285,42 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Satya),A/C Seater Push Back (2+3),07:20,04h 20m,11:40,2.0,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Parameswar Travels,A/C Seater Push Back (2+3),23:55,04h 35m,04:30,2.7,285,49 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Maa Chandi),A/C Seater Push Back (2+3),13:30,04h 15m,17:45,1.7,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Maa Gauri),A/C Seater Push Back (2+3),12:30,04h 10m,16:40,1.8,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Monikanchan Bus Service,A/C Seater (2+3),07:15,03h 50m,11:05,1.8,338,37 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan(Maa Gauri Gold),AC Seater (2+3),11:00,04h 00m,15:00,1.7,270,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Snemita Paribahan (Maa Chandi)),A/C Push Back (2+3),06:21,03h 54m,10:15,2.7,333,36 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Sagar Kanya),A/C Seater Push Back (2+3),23:30,04h 30m,04:00,2.8,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (BHORPET),AC Seater (2+3),17:40,04h 05m,21:45,3.9,270,31 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (Jackson),AC Seater (2+2),08:00,04h 00m,12:00,3.9,333,12 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (Angel),AC Seater (2+3),08:30,04h 00m,12:30,3.9,320,21 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (Shinjini),AC Seater (2+3),23:50,04h 20m,04:10,3.9,333,35 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (Shinjini),AC Seater (2+2),23:45,04h 15m,04:00,3.9,320,12 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,SANTOSH BUS SERVICE,AC Seater (2+3),19:25,03h 55m,23:20,3.7,250,41 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Samanta Travels,A/C Seater (2+3),18:50,03h 40m,22:30,3.7,300,57 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express (Snemita),AC Seater (2+3),05:35,04h 00m,09:35,4.0,279,29 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,City Express,AC Seater (2+3),06:00,03h 50m,09:50,3.9,320,26 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Sonamoni),A/C Seater Push Back (2+3),11:20,04h 40m,16:00,3.2,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sneha Gold Bus Service,A/C Seater (2+3),09:10,04h 00m,13:10,3.2,300,15 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Mayuri),A/C Seater (2+2),23:15,04h 30m,03:45,3.2,347,49 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Lokenath),A/C Seater Push Back (2+3),00:30,04h 40m,05:10,3.2,299,30 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels(Angel),A/C Seater (2+2),23:58,04h 42m,04:40,3.2,299,24 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Maity),A/C Seater (2+3),00:55,04h 35m,05:30,3.2,299,30 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Samanta),A/C Seater (2+3),18:00,04h 00m,22:00,3.2,299,20 Seats available
+WBT,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Sagufta Travels (Kojagor),A/C Seater Push Back (2+3),17:00,04h 30m,21:30,3.2,299,26 Seats available

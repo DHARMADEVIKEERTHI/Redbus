@@ -1,258 +1,409 @@
-Route Name,Route Link,Bus Name,Bus Type,Departing Time,Duration,Reaching Time,Star Rating,Price,Seat Availability
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,"WBTC (CTC) BARASAT-DIGHA via Esplanade, Karunamoyee,Airport - 206|14:15",Non AC Seater (2+3),14:15,05h 00m,19:15,2.3,165,38 Seats available
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,WBTC (CTC) HABRA-DIGHA via Bally - 26|14:50,Non AC Seater (2+3),14:50,04h 45m,19:35,3.5,161,37 Seats available
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,WBTC (CTC) MADHYAMGRAM - DIGHA via Belghoria - 130|16:00,Non AC Seater (2+3),16:00,05h 05m,21:05,2.4,161,30 Seats available
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,06h 20m,03:35,3.7,650,47 Seats available
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Satya Paribahan,A/C Seater (2+3),23:00,06h 10m,05:10,3.4,320,35 Seats available
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Aradhana Bus Service,Non AC Seater (2+3),16:50,06h 40m,23:30,2.1,350,46 Seats available
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Aradhana Travels,A/C Seater / Sleeper (2+2),18:35,05h 20m,23:55,1.1,450,20 Seats available
-Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Aradhana Bus Service,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,2.1,550,68 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KARUNAMOYEE - VOLVO - 13:25 (BEL DEPOT) - 3956,Volvo AC Seater (2+2),14:30,04h 15m,18:45,4.4,360,46 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-BANKURA - KARUNAMOYEE - 13:00 (BNK DEPOT) - 240,Non AC Seater (2+3),14:55,04h 00m,18:55,3.1,155,23 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-DURGAPUR - KARUNAMOYEE - A/C - 15:10 (DGP DEPOT) - 1648,AC Seater (2+2),15:10,04h 00m,19:10,3.2,300,19 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 14:05 (HOWRAH DEPOT) - 748,Non AC Seater (2+3),15:15,03h 30m,18:45,3.6,150,37 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - A/C - 14:20 (HWH DEPOT) - 1149,AC Seater (2+2),15:40,03h 30m,19:10,3.4,300,34 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 14:35 (HOWRAH DEPOT) - 208,Non AC Seater (2+3),15:45,03h 30m,19:15,2.8,150,52 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-BANKURA - KARUNAMOYEE - 14:15 (BNK DEPOT) - 241,Non AC Seater (2+3),16:00,04h 00m,20:00,3.8,155,25 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 15:05 (HWH DEPOT) - 210,Non AC Seater (2+3),16:15,03h 30m,19:45,3.6,150,52 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KARUNAMOYEE - 15:10 (BEL DEPOT) - 216,Non AC Seater (2+3),16:20,04h 00m,20:20,3.6,155,15 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 15:35 (HOWRAH DEPOT) - 211,Non AC Seater (2+3),16:45,03h 30m,20:15,3.2,150,51 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-BANKURA - KARUNAMOYEE - A/C - 15:15 - 1500,AC Seater (2+2),17:00,04h 00m,21:00,2.1,300,18 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KARUNAMOYEE - 16:10 (BEL DEPOT) - 217,Non AC Seater (2+3),17:25,04h 00m,21:25,4.1,155,51 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 16:30 (HOWRAH DEPOT) - 752,Non AC Seater (2+3),17:40,03h 30m,21:10,3.6,150,50 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KARUNAMOYEE - 16:40 (ASANSOL DEPOT) - 847,Non AC Seater (2+3),17:50,04h 10m,22:00,3.3,155,48 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SHYAMOLI Pvt. Ltd.(Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),14:00,04h 00m,18:00,4.3,486,33 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SHYAMOLI Pvt. Ltd.(Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),14:00,04h 00m,18:00,4.4,486,31 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C Semi Sleeper (2+2),14:10,03h 50m,18:00,3.7,486,33 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line (Karunamoyee),Volvo A/C Seater (2+2),14:20,03h 50m,18:10,4.6,486,23 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line (Karunamoyee),Volvo A/C Seater (2+2),14:20,03h 50m,18:10,4.5,486,23 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline,Volvo 9600 A/C Semi Sleeper (2+2),14:50,04h 00m,18:50,4.3,486,21 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line (Karunamoyee),Volvo 9600 A/C Semi Sleeper (2+2),15:00,03h 50m,18:50,4.5,486,24 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line (Karunamoyee),Volvo 9600 A/C Semi Sleeper (2+2),15:00,03h 50m,18:50,4.0,486,23 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),15:30,03h 50m,19:20,4.3,486,28 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline (Karunamoyee),Volvo A/C Seater (2+2),15:30,04h 00m,19:30,4.3,486,16 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),16:00,03h 50m,19:50,4.1,486,29 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),16:00,04h 00m,20:00,4.3,486,28 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),16:00,04h 00m,20:00,4.1,486,32 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line (Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),16:30,03h 55m,20:25,4.5,486,36 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:30,04h 00m,20:30,3.9,486,24 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline,Volvo A/C Seater (2+2),17:10,03h 50m,21:00,4.1,486,27 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline (Karunamoyee),Volvo A/C B11R Multi Axle Semi Sleeper (2+2),17:30,03h 50m,21:20,4.1,486,24 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline (Karunamoyee),Volvo A/C B11R Multi Axle Semi Sleeper (2+2),17:30,03h 50m,21:20,4.3,486,23 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),17:50,03h 45m,21:35,4.3,486,32 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),17:50,03h 45m,21:35,4.1,486,32 Seats available
-Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),18:30,04h 20m,22:50,4.6,486,34 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KARUNAMOYEE - VIA - KOLKATA - 14:25 (VOLVO - 3708,Volvo AC Seater (2+2),14:25,05h 00m,19:25,2.7,460,53 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - THAKURPUR - 14:30 (DIG DEPOT) - 839,Non AC Seater (2+3),14:30,04h 30m,19:00,2.8,155,45 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KARUNAMOYEE - A/C - 14:30 (DIGHA DEPOT) - 3962,AC Seater (2+2),14:30,05h 00m,19:30,2.6,360,37 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - KOLKATA - 14:40 (FALTA DEPOT - 3489,Non AC Seater (2+3),14:40,05h 30m,20:10,3.0,162,48 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - A/C - 14:50 (DIG DEPOT) - 735,AC Seater (2+2),14:50,04h 30m,19:20,2.8,310,26 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - KOLKATA - 15:10 - 734,Non AC Seater (2+3),15:10,04h 30m,19:40,3.1,155,52 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KARUNAMOYEE - VIA DUNLOP - 15:20 (DIGHA) - 3244,Non AC Seater (2+3),15:20,05h 00m,20:20,3.4,170,52 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - VIA - KOLKATA - 16:40 (FALTA DEPOT - 3704,Non AC Seater (2+3),16:40,04h 30m,21:10,3.6,155,52 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - KOLKATA - 17:15 (DIGHA DEPOT) - 1158,Non AC Seater (2+3),17:15,04h 30m,21:45,2.9,155,52 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,"WBTC (CTC) BARASAT-DIGHA via Esplanade, Karunamoyee,Airport - 206|14:15",Non AC Seater (2+3),14:15,03h 45m,18:00,3.3,145,38 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) Joka - Tollygunge - Digha - 99|14:30,Non AC Seater (2+3),14:30,04h 30m,19:00,3.7,145,49 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) SHYAMBAZAR - DIGHA VIA- ESPLANADE (AC-VOLVO) - 52|14:46,Volvo AC Seater (2+2),14:46,04h 45m,19:31,4.2,370,38 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) HABRA-DIGHA via Bally - 26|14:50,Non AC Seater (2+3),14:50,04h 15m,19:05,4.0,146,37 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) Khidderpur - Digha - 97|15:00,Non AC Seater (2+3),15:00,05h 00m,20:00,3.7,151,47 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) Joka - Tollygunge - Digha - 99|15:30,Non AC Seater (2+3),15:30,04h 15m,19:45,4.5,145,49 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) MADHYAMGRAM - DIGHA via Belghoria - 130|16:00,Non AC Seater (2+3),16:00,04h 50m,20:50,3.7,159,36 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,WBTC (CTC) Tollygunge - Digha - 200|16:30,Non AC Seater (2+3),16:30,04h 15m,20:45,3.9,145,43 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),13:55,04h 20m,18:15,4.6,299,11 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),13:55,05h 00m,18:55,4.3,299,32 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,4.1,288,25 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(SNEHA GOLD),AC Seater (2+3),16:40,04h 30m,21:10,3.2,257,46 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,3.3,288,26 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sree Jagannath Travels,A/C Seater Push Back (2+3),15:00,05h 00m,20:00,3.3,345,30 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sneha Gold Bus Service,A/C Seater (2+3),16:30,05h 00m,21:30,3.2,300,20 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(SHINJINI),A/C Seater (2+3),16:00,04h 30m,20:30,2.5,270,28 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Pariseba(Samanta),A/C Seater Push Back (2+3),14:45,04h 35m,19:20,2.7,257,36 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:00,04h 45m,03:45,2.7,320,35 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,3.9,650,47 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),20:00,05h 35m,01:35,3.4,285,20 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,3.5,335,36 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Shinjini),AC Seater (2+3),23:35,04h 40m,04:15,2.5,378,28 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,1.9,335,30 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:00,05h 20m,04:20,2.2,352,25 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),21:00,06h 00m,03:00,1.6,238,15 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),18:10,05h 05m,23:15,2.1,238,31 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),16:00,04h 30m,20:30,2.1,270,21 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sree Jagannath Travels,A/C Seater Push Back (2+3),14:00,04h 30m,18:30,1.2,330,29 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Samanta Travels,A/C Seater (2+3),14:30,04h 50m,19:20,3.3,300,19 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,A/C Seater / Sleeper (2+2),18:35,04h 25m,23:00,1.5,450,20 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:30,04h 10m,03:40,1.8,300,26 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater (2+3),23:30,04h 30m,04:00,2.1,333,45 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Bus Service,A/C Seater / Sleeper (2+2),23:00,05h 00m,04:00,1.2,550,68 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),15:20,04h 40m,20:00,2.9,270,36 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan - Parameswar,A/C Seater (2+3),18:00,04h 40m,22:40,2.4,285,36 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Maity Motor),AC Seater (2+3),15:45,04h 30m,20:15,1.5,285,41 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,AC Seater (2+3),18:00,04h 30m,22:30,2.4,352,41 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,A/C Seater (2+3),23:35,04h 55m,04:30,1.7,333,21 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),15:20,04h 35m,19:55,2.1,270,23 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,AC Seater (2+3),17:00,04h 30m,21:30,1.9,257,36 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aniruddha Travels,NON A/C Seater Push Back (2+3) (2+3),16:25,04h 50m,21:15,1.0,270,30 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Jackson),A/C Push Back (2+3),15:00,05h 05m,20:05,1.5,285,40 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),18:20,04h 40m,23:00,2.3,300,61 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),15:10,04h 40m,19:50,2.8,333,25 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,A/C Seater / Sleeper (2+1),19:30,04h 29m,23:59,1.6,450,45 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Samanta Travels,NON A/C Seater (2+3),16:00,05h 00m,21:00,3.3,199,61 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,Non AC Seater (2+3),18:20,04h 40m,23:00,2.8,285,46 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Executive (2+3),15:25,04h 35m,20:00,2.8,285,60 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Bus Service,Non AC Seater (2+3),16:50,05h 40m,22:30,1.1,350,44 Seats available
-Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,Non AC Seater (2+3),21:45,05h 40m,03:25,1.5,450,19 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,4.5,399,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Express Line,Volvo 9600 A/C Seater (2+2),23:45,05h 00m,04:45,4.3,349,15 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,07h 30m,05:30,4.2,400,31 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,AdSagufta Travels (Mayuri),A/C Seater (2+2),23:15,04h 45m,04:00,3.8,384,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,AC Seater (2+2),23:15,05h 15m,04:30,4.2,360,18 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Bhorpet Travels),AC Seater (2+2),23:55,04h 40m,04:35,4.5,476,24 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,4.3,394,35 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,AdSagufta Travels (Santosh),A/C Seater / Sleeper (2+2),01:20,04h 10m,05:30,3.6,380,12 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,A/C Seater (2+3),18:20,04h 30m,22:50,3.2,270,61 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:45,05h 15m,05:00,3.3,285,36 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Angel),A/C Seater (2+2),23:58,05h 12m,05:10,3.9,347,24 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Bhorpet),AC Seater (2+2),23:55,04h 50m,04:45,3.5,320,29 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater / Sleeper (2+2),23:59,05h 01m,05:00,3.5,303,34 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater Push Back (2+3),23:30,05h 00m,04:30,3.5,269,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,05h 01m,05:00,3.4,347,41 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,2.9,285,49 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,04h 25m,22:25,3.6,352,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),21:50,05h 55m,03:45,2.1,285,51 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Janhabi),A/C Seater Push Back (2+3),16:45,04h 30m,21:15,3.8,291,24 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+3),23:50,05h 05m,04:55,2.9,333,35 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Maity),A/C Seater (2+3),00:55,04h 55m,05:50,3.5,299,22 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),16:45,04h 35m,21:20,3.0,399,31 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.9,320,12 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater Push Back (2+3),14:29,04h 46m,19:15,3.9,303,39 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05h 05m,05:00,3.0,319,35 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (BHORPET),AC Seater (2+3),17:40,04h 20m,22:00,1.7,270,31 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (BHORPET),A/C Seater (2+3),17:40,04h 20m,22:00,1.7,270,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.5,320,14 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Ruposhi),AC Seater (2+3),15:55,04h 55m,20:50,3.5,270,29 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Ruposhi),AC Seater (2+3),15:55,04h 55m,20:50,3.5,270,30 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Purusottam Travels,A/C Seater (2+3),14:39,05h 26m,20:05,2.6,300,46 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (ANGEL),A/C Seater Push Back (2+2),23:58,05h 02m,05:00,3.5,370,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Kojagor),A/C Seater (2+3),15:50,04h 30m,20:20,2.9,291,10 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Sagar Kanya),A/C Seater Push Back (2+3),23:30,04h 35m,04:05,2.5,338,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Samanta),A/C Seater (2+3),18:00,04h 50m,22:50,2.6,291,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Pariseba(Santosh),AC Seater (2+3),18:30,05h 00m,23:30,3.0,352,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04h 40m,04:30,2.6,320,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater Push Back (2+3),14:32,04h 28m,19:00,2.0,312,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Samanta Travels,A/C Seater (2+3),18:50,04h 40m,23:30,2.2,300,61 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Lokenath),A/C Seater Push Back (2+3),00:30,05h 00m,05:30,2.3,347,28 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater Push Back (2+3),14:25,04h 45m,19:10,1.4,319,30 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Haimanti Bus Service,AC Seater (2+3),19:50,05h 40m,01:30,1.8,350,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater Push Back (2+3),23:20,05h 10m,04:30,2.8,335,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Arunita Paribahan,AC Seater (2+2),23:45,05h 00m,04:45,4.1,320,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Kojagor),A/C Seater Push Back (2+3),17:00,04h 50m,21:50,3.6,291,26 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Purusottam Travels,A/C Seater (2+3),14:40,05h 15m,19:55,5.0,320,46 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan,A/C Push Back (2+3),15:45,04h 45m,20:30,3.2,399,21 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan (Maity Motor),A/C Seater Push Back (2+3),22:20,04h 40m,03:00,3.2,380,25 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Atithi),A/C Seater (2+3),23:55,05h 05m,05:00,4.5,399,20 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba (Bhunia),AC Seater (2+3),16:00,04h 40m,20:40,3.9,352,41 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan( Haimanti),A/C Seater Push Back (2+3),19:50,04h 15m,00:05,3.0,428,41 Seats available
-Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Parisheba (Samanta),AC Seater (2+3),14:15,04h 30m,18:45,2.8,352,41 Seats available
-Barasat (West Bengal) to Digha,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-digha,WBTC (CTC) BARASAT-DIGHA via Bally - 38|15:00,Non AC Seater (2+3),15:00,03h 45m,18:45,3.3,161,29 Seats available
-Kolkata to Suri,https://www.redbus.in/bus-tickets/kolkata-to-suri,SBSTC-KOLKATA - SURI - 14:30 - (Suri Depot) - 652,Non AC Seater (2+3),14:30,05h 30m,20:00,2.4,190,52 Seats available
-Kolkata to Suri,https://www.redbus.in/bus-tickets/kolkata-to-suri,SBSTC-KOLKATA - SURI - 15:30 - (Suri Depot) - 655,Non AC Seater (2+3),15:30,05h 30m,21:00,3.4,190,52 Seats available
-Kolkata to Suri,https://www.redbus.in/bus-tickets/kolkata-to-suri,SBSTC-KOLKATA - SURI - 16: 30 - (Suri Depot) - 653,Non AC Seater (2+3),16:30,05h 30m,22:00,3.1,190,52 Seats available
-Kolkata to Suri,https://www.redbus.in/bus-tickets/kolkata-to-suri,SBSTC-KOLKATA - SURI - 18:00 - (Suri Depot) - 1205,Non AC Seater (2+3),18:00,05h 00m,23:00,3.7,190,52 Seats available
-Kolkata to Suri,https://www.redbus.in/bus-tickets/kolkata-to-suri,WBTC (CTC) KOLKATA -BOLPUR - SURI (AC-VOLVO) - 104|14:30,Volvo AC Seater (2+2),14:30,04h 40m,19:10,3.7,435,20 Seats available
-Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata,SBSTC-JHARGRAM - KARUNAMOYEE - VIA - KOLKATA - 13:35 - 1764,Non AC Seater (2+3),15:05,08h 55m,00:00,4.4,110,42 Seats available
-Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata,SBSTC-MIDNAPUR - BARASAT - 15:30 (MID DEPOT) - 4004,Non AC Seater (2+3),15:30,08h 30m,00:00,3.9,111,51 Seats available
-Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata,SBSTC-MIDNAPUR - BARASAT - 16:00 (MID DEPOT) - 1193,Non AC Seater (2+3),16:00,08h 00m,00:00,2.9,111,37 Seats available
-Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata,SBSTC-MIDNAPUR - KARUNAMOYEE - 16:40 - 997,Non AC Seater (2+3),16:40,07h 20m,00:00,3.8,118,39 Seats available
-Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata,WBTC (CTC) Habra-Midnapur - 194|15:40,Non AC Seater (2+3),15:40,02h 45m,18:25,3.9,105,33 Seats available
-Barasat (West Bengal) to Kolaghat,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-kolaghat,WBTC (CTC) BARASAT-DIGHA via Bally - 38|15:00,Non AC Seater (2+3),15:00,01h 25m,16:25,3.5,69,38 Seats available
-Barasat (West Bengal) to Contai (Kanthi),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-contai-kanthi,WBTC (CTC) BARASAT-DIGHA via Bally - 38|15:00,Non AC Seater (2+3),15:00,02h 45m,17:45,3.4,131,28 Seats available
-Barasat (West Bengal) to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-nandakumar,WBTC (CTC) BARASAT-DIGHA via Bally - 38|15:00,Non AC Seater (2+3),15:00,01h 45m,16:45,3.7,90,29 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KARUNAMOYEE - ASANSOL - 15:00 (ASN DEPOT) - 248,Non AC Seater (2+3),15:00,03h 45m,18:45,3.3,155,50 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - ASANSOL - 15:00 (ASANSOL DEPOT) - 257,Non AC Seater (2+3),15:00,03h 30m,18:30,3.8,150,52 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - DURGAPUR - 15:15 (DGP DEPOT) - 759,Non AC Seater (2+3),15:15,03h 30m,18:45,3.6,150,52 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KARUNAMOYEE - BANKURA - A/C - 15:15 (BNK DEPOT) - 1524,AC Seater (2+2),15:15,04h 15m,19:30,3.3,300,33 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - BANKURA - 15:30 (Bankura Depot) - 294,Non AC Seater (2+3),15:30,03h 30m,19:00,3.3,150,52 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KARUNAMOYEE - ASANSOL - 15:30 (ASN DEPOT) - 249,Non AC Seater (2+3),15:30,03h 45m,19:15,3.8,155,50 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - ASANSOL - 16:00 (ASANSOL DEPOT) - 768,Non AC Seater (2+3),16:00,03h 30m,19:30,3.1,150,52 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - DURGAPUR - 16:15 (DGP DEPOT) - 760,Non AC Seater (2+3),16:15,03h 30m,19:45,4.4,150,51 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KARUNAMOYEE - ASANSOL - AC - 16:15 (BEL DEPOT) - 1566,AC Seater (2+2),16:15,04h 00m,20:15,3.5,300,36 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KARUNAMOYEE - DURGAPUR - 16:45 (DGP DEPOT) - 181,Non AC Seater (2+3),16:45,03h 45m,20:30,4.0,155,49 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - ASANSOL - L/S - 17:00 (ASANSOL DEPOT) - 769,Non AC Seater (2+3),17:00,03h 30m,20:30,4.0,150,52 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - DURGAPUR - 17:15 (DGP DEPOT) - 173,Non AC Seater (2+3),17:15,03h 30m,20:45,4.1,150,52 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - JAMURIA - VIA - DURGAPUR - 17:30 - 300,Non AC Seater (2+3),17:30,03h 30m,21:00,3.1,150,52 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KARUNAMOYEE - BANKURA - VIA - DURGAPUR - 17:30 - 311,Non AC Seater (2+3),17:30,04h 15m,21:45,3.7,155,42 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA - DURGAPUR - 18:30 (DGP DEPOT) - 176,Non AC Seater (2+3),18:30,03h 30m,22:00,3.1,150,50 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),14:10,03h 50m,18:00,4.4,486,17 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),14:10,03h 50m,18:00,4.3,486,17 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),14:25,03h 35m,18:00,4.3,486,15 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline,Volvo A/C Seater (2+2),14:30,04h 00m,18:30,4.9,486,35 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline (Karunamoyee),Volvo A/C Seater (2+2),15:00,04h 00m,19:00,4.5,486,28 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline (Karunamoyee),Volvo A/C Seater (2+2),15:00,04h 00m,19:00,4.3,486,28 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C Semi Sleeper (2+2),15:00,03h 00m,18:00,4.6,486,12 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),15:30,03h 00m,18:30,4.5,486,51 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Express Line (Karunamoyee),Volvo A/C Seater (2+2),15:45,04h 00m,19:45,4.5,486,33 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Express Line (Karunamoyee),Volvo A/C Seater (2+2),15:45,04h 00m,19:45,4.7,486,33 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline,Volvo 9600 Multi Axle Semi-Sleeper (2+2),16:00,03h 15m,19:15,4.6,486,27 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:40,04h 00m,20:40,3.8,486,27 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,04h 00m,20:45,4.4,486,29 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,04h 00m,20:45,4.3,486,31 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Express Line,Scania Multi-Axle AC Semi Sleeper (2+2),17:20,04h 00m,21:20,4.7,486,44 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),17:30,04h 00m,21:30,4.4,486,33 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),17:30,04h 00m,21:30,4.3,486,33 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline,Volvo A/C Seater (2+2),18:05,04h 00m,22:05,4.5,486,37 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),18:40,03h 45m,22:25,4.5,486,29 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Pammi Travels,NON A/C Sleeper (2+1),21:15,04h 15m,01:30,3.6,1099,42 Seats available
-Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Maharani Travels,A/C Seater / Sleeper (2+1),21:05,04h 25m,01:30,2.9,800,17 Seats available
-Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Bally - 26|14:50,Non AC Seater (2+3),14:50,05h 45m,20:35,3.0,179,38 Seats available
-Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,SBSTC-MIDNAPUR - BARASAT - 15:30 (MID DEPOT) - 4004,Non AC Seater (2+3),15:30,04h 30m,20:00,4.0,125,52 Seats available
-Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,SBSTC-MIDNAPUR - BARASAT - 16:00 (MID DEPOT) - 1193,Non AC Seater (2+3),16:00,08h 00m,00:00,4.1,125,40 Seats available
-Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,WBTC (CTC) Habra-Midnapur - 194|15:40,Non AC Seater (2+3),15:40,03h 15m,18:55,3.9,120,33 Seats available
-Kolkata to Bolpur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-bolpur-west-bengal,WBTC (CTC) KOLKATA -BOLPUR - SURI (AC-VOLVO) - 104|14:30,Volvo AC Seater (2+2),14:30,03h 45m,18:15,4.0,375,21 Seats available
-Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) BARASAT-DIGHA via Bally - 38|15:00,Non AC Seater (2+3),15:00,02h 15m,17:15,3.8,112,30 Seats available
-Haldia to Barasat (West Bengal),https://www.redbus.in/bus-tickets/haldia-to-barasat-west-bengal,WBTC (CTC) Habra- Barasat- Haldia - 180|16:45,Non AC Seater (2+3),16:45,03h 15m,20:00,3.5,113,40 Seats available
-Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 15:00 (Haldia Depot) - 641,Non AC Seater (2+3),15:00,03h 00m,18:00,3.8,110,37 Seats available
-Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 16:05 (HALDIA DEPOT) - 1328,Non AC Seater (2+3),16:05,03h 00m,19:05,3.7,110,42 Seats available
-Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - ALL STOP - 17:30 (HLD DEPOT) - 630,Non AC Seater (2+3),17:30,03h 00m,20:30,3.9,110,45 Seats available
-Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,WBTC (CTC) Habra- Barasat- Haldia - 180|16:45,Non AC Seater (2+3),16:45,02h 45m,19:30,4.0,97,38 Seats available
-Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,City Queen Bus Service,Non AC Seater (2+2),21:30,10h 00m,07:30,2.2,285,18 Seats available
-Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,City Queen Bus Service,Non AC Seater (2+2),20:50,08h 10m,05:00,2.3,250,14 Seats available
-Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - BANKURA - 13:00 (PRL DEP - 290,Non AC Seater (2+3),16:00,08h 00m,00:00,4.0,117,50 Seats available
-Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 14:15 (PRL DEPOT) - 292,Non AC Seater (2+3),17:15,06h 45m,00:00,3.7,112,51 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 15:00 (ASANSOL DEPOT) - 257,Non AC Seater (2+3),15:00,04h 30m,19:30,1.9,180,52 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 15:00 (ASN DEPOT) - 248,Non AC Seater (2+3),15:00,05h 00m,20:00,3.5,185,50 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 15:30 (ASN DEPOT) - 249,Non AC Seater (2+3),15:30,05h 00m,20:30,3.7,185,50 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 16:00 (ASANSOL DEPOT) - 768,Non AC Seater (2+3),16:00,04h 30m,20:30,3.9,180,52 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - AC - 16:15 (BEL DEPOT) - 1566,AC Seater (2+2),16:15,05h 00m,21:15,2.6,360,36 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - L/S - 17:00 (ASANSOL DEPOT) - 769,Non AC Seater (2+3),17:00,04h 30m,21:30,3.6,180,52 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - JAMURIA - VIA - DURGAPUR - 17:30 - 300,Non AC Seater (2+3),17:30,04h 30m,22:00,4.5,180,52 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),14:25,04h 35m,19:00,3.9,524,18 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo A/C Seater (2+2),14:30,05h 00m,19:30,4.4,524,35 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),14:30,04h 30m,19:00,4.2,524,18 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),14:30,04h 30m,19:00,4.3,524,20 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),15:00,05h 00m,20:00,4.0,524,26 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),15:00,05h 00m,20:00,4.3,524,28 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),15:30,04h 10m,19:40,3.8,524,51 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line (Karunamoyee),Volvo A/C Seater (2+2),15:45,05h 00m,20:45,4.5,524,40 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line (Karunamoyee),Volvo A/C Seater (2+2),15:45,05h 00m,20:45,4.6,524,35 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo 9600 Multi Axle Semi-Sleeper (2+2),16:00,04h 00m,20:00,4.1,524,24 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:40,05h 00m,21:40,4.0,524,27 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,05h 00m,21:45,4.2,524,32 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,05h 00m,21:45,4.3,524,31 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line,Scania Multi-Axle AC Semi Sleeper (2+2),17:20,05h 00m,22:20,4.6,524,45 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),17:30,05h 00m,22:30,4.2,524,34 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),17:30,05h 00m,22:30,4.3,524,38 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo A/C Seater (2+2),18:05,05h 00m,23:05,4.1,524,37 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),18:40,04h 45m,23:25,4.4,524,29 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Beauty Travels,NON A/C Seater / Sleeper (2+2),20:20,04h 10m,00:30,4.2,500,10 Seats available
-Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Pammi Travels,NON A/C Sleeper (2+1),21:15,05h 15m,02:30,3.6,1099,42 Seats available
-Jayrambati (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/jayrambati-west-bengal-to-barasat-west-bengal,WBTC (CTC) HABRA-BARASAT- JOYRAMBATI- BISHNUPUR - 177|14:50,Non AC Seater (2+3),14:50,03h 45m,18:35,4.0,90,26 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - NON STOP - 15:30 (HALDIA DEPOT) - 569,Non AC Seater (2+3),15:30,03h 00m,18:30,4.3,135,45 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - A/C - 16:05 (Haldia Depot) - 1527,AC Seater (2+2),16:05,03h 00m,19:05,3.8,210,35 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 16:30 (Haldia Depot) - 809,Non AC Seater (2+3),16:30,03h 00m,19:30,4.1,110,48 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 17:00 (Haldia Depot) - 3017,Non AC Seater (2+3),17:00,03h 00m,20:00,3.6,110,51 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 17.30 (HALDIA DEPOT) - 565,Non AC Seater (2+3),17:30,03h 00m,20:30,4.2,110,51 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 18.15 (HALDIA DEPOT) - 566,Non AC Seater (2+3),18:15,03h 00m,21:15,3.3,110,49 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Satadal Travels,A/C Seater (2+2),14:55,03h 20m,18:15,4.0,167,37 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Satadal Travels,A/C Seater (2+2),14:56,03h 19m,18:15,3.7,180,37 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Diamond City Service,A/C Executive (2+3),15:10,03h 45m,18:55,4.6,170,38 Seats available
-Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Swapna Paribahan,Non AC Seater (2+3),16:55,04h 30m,21:25,3.0,150,25 Seats available
+State,Route Name,Route Link,Bus Name,Bus Type,Departing Time,Duration,Reaching Time,Star Rating,Price,Seat Availability
+West Bengal,Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,06h 20m,03:35,3.7,650,44 Seats available
+West Bengal,Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Satya Paribahan,A/C Seater (2+3),23:00,06h 10m,05:10,3.3,370,18 Seats available
+West Bengal,Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Aradhana Bus Service,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,2.1,550,66 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,3.7,333,22 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,3.8,333,17 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:00,04h 45m,03:45,3.0,320,18 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,4.2,650,46 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Shinjini),AC Seater (2+3),23:35,04h 40m,04:15,2.3,333,18 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:30,04h 10m,03:40,1.8,300,28 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Seater Push Back (2+3),23:30,05h 40m,05:10,3.6,270,51 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),21:00,06h 00m,03:00,1.6,340,15 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,A/C Seater (2+3),23:35,04h 55m,04:30,1.7,333,21 Seats available
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater (2+3),23:30,04h 30m,04:00,2.1,378,45 Seats available
+West Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Royal Cruiser,Volvo A/C Seater (2+2),20:00,03h 15m,23:15,3.8,500,17 Seats available
+West Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Pammi Travels,NON A/C Sleeper (2+1),21:15,04h 15m,01:30,3.6,697,22 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-KOLKATA - DIGHA - 23:30 (DIGHA DEPOT) - 3988,Non AC Seater (2+3),23:30,04h 30m,04:00,4.0,155,31 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745,Non AC Seater (2+3),23:45,04h 30m,04:15,4.2,155,50 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,4.6,300,28 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Express Line,VE A/C Seater (2+2),23:45,05h 00m,04:45,4.2,299,27 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,4.2,338,26 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,4.2,300,39 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,3.2,238,45 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:45,05h 15m,05:00,3.2,238,51 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Angel),A/C Seater (2+2),23:58,05h 12m,05:10,4.2,291,16 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater / Sleeper (2+2),23:59,05h 01m,05:00,3.5,319,34 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05h 05m,05:00,3.0,319,37 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+3),23:50,05h 05m,04:55,2.8,333,35 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Maity),A/C Seater (2+3),00:55,04h 55m,05:50,3.1,338,30 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,05h 01m,05:00,2.8,291,38 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,2.4,285,49 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,City Express (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.9,320,12 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Sagar Kanya),A/C Seater Push Back (2+3),23:30,04h 35m,04:05,2.5,291,16 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04h 40m,04:30,2.6,320,20 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Atithi),A/C Seater (2+3),23:55,05h 05m,05:00,3.0,378,20 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels(Lokenath),A/C Seater Push Back (2+3),00:30,05h 00m,05:30,2.2,291,30 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (ANGEL),A/C Seater Push Back (2+2),23:58,05h 02m,05:00,1.7,320,25 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater Push Back (2+3),23:30,05h 00m,04:30,3.5,240,20 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Bhorpet),AC Seater (2+2),23:55,04h 50m,04:45,3.7,320,29 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan (Maity Motor),A/C Seater Push Back (2+3),22:20,04h 40m,03:00,3.1,383,25 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Sagufta Travels (Santosh),A/C Seater / Sleeper (2+2),01:20,04h 10m,05:30,3.6,324,18 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Friends Travels,A/C Seater (2+3),23:55,05h 15m,05:10,2.8,350,26 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Parameswar Travels,A/C Seater Push Back (2+3),21:50,05h 55m,03:45,2.2,285,51 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,2.0,319,20 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Basu Travels,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,2.3,240,21 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SANTOSH BUS SERVICE,AC Seater (2+3),23:50,05h 10m,05:00,2.7,350,40 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SANTOSH BUS SERVICE,A/C Seater / Sleeper (2+2),23:59,05h 31m,05:30,2.0,349,43 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SANTOSH BUS SERVICE,AC Seater (2+3),20:20,04h 25m,00:45,2.7,250,41 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Arunita Paribahan,AC Seater (2+2),23:45,05h 00m,04:45,4.1,320,21 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Snemita Paribahan (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,3.4,320,16 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),22:40,06h 40m,05:20,3.1,378,20 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Anadi Travels (Disha Gold),A/C Seater Push Back (2+3),23:00,05h 40m,04:40,1.0,500,60 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,SANTOSH BUS SERVICE,AC Seater (2+3),00:25,04h 35m,05:00,2.7,350,41 Seats available
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Bengal Surface Transport,A/C Seater Push Back (2+3),23:20,05h 10m,04:30,2.7,335,21 Seats available
+West Bengal,Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,WBTC (CTC) Habra-Midnapur - 194|13:40,Non AC Seater (2+3),13:40,03h 15m,16:55,4.1,120,46 Seats available
+West Bengal,Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,WBTC (CTC) Habra-Midnapur - 194|14:45,Non AC Seater (2+3),14:45,03h 10m,17:55,4.7,120,44 Seats available
+West Bengal,Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,WBTC (CTC) Habra-Midnapur - 194|15:40,Non AC Seater (2+3),15:40,03h 15m,18:55,4.2,120,39 Seats available
+West Bengal,Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,WBTC (CTC) Barasat-Midnapur - 208|16:50,Non AC Seater (2+3),16:50,02h 15m,19:05,4.1,120,40 Seats available
+West Bengal,Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,SBSTC-MIDNAPUR - HABRA - 14:00 (MID DEPOT) - 1397,Non AC Seater (2+3),14:00,10h 00m,00:00,4.1,125,50 Seats available
+West Bengal,Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal,SBSTC-MIDNAPUR - BARASAT - 16:00 (MID DEPOT) - 1193,Non AC Seater (2+3),16:00,08h 00m,00:00,4.3,125,43 Seats available
+West Bengal,Barasat (West Bengal) to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-durgapur,SBSTC-BONGAON - ASANSOL - VIA - BARASAT - 05:00 (ASN DEP - 1515,Non AC Seater (2+3),07:00,04h 00m,11:00,3.8,155,19 Seats available
+West Bengal,Barasat (West Bengal) to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-durgapur,SBSTC-HABRA - DURGAPUR - VIA - BARASAT - 07:00 (DGP DEPO - 915,Non AC Seater (2+3),08:00,05h 00m,13:00,4.0,155,40 Seats available
+West Bengal,Barasat (West Bengal) to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-durgapur,WBTC (CTC) Habra - Barasat - Durgapur - Asansol - 100|06:00,Non AC Seater (2+3),06:00,03h 00m,09:00,4.3,147,1 Seat available
+West Bengal,Barasat (West Bengal) to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-durgapur,WBTC (CTC) BARASAT -DURGAPUR - ASANSOL (AC-VOLVO) - 95|07:30,Volvo AC Seater (2+2),07:30,03h 15m,10:45,3.8,350,21 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) HABRA-DIGHA via Bally - 26|04:30,Non AC Seater (2+3),04:30,02h 35m,07:05,4.3,112,29 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:00,Non AC Seater (2+3),05:00,02h 35m,07:35,3.6,112,30 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:35,Non AC Seater (2+3),05:35,02h 35m,08:10,3.5,112,15 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) HABRA-DIGHA via Bally - 26|06:00,Non AC Seater (2+3),06:00,02h 35m,08:35,3.2,112,25 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) HABRA-DIGHA via Bally - 26|06:25,Non AC Seater (2+3),06:25,02h 30m,08:55,4.4,112,28 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) BARASAT-DIGHA via Bally - 38|07:20,Non AC Seater (2+3),07:20,02h 55m,10:15,3.8,112,41 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) HABRA-DIGHA via Bally - 26|08:15,Non AC Seater (2+3),08:15,02h 30m,10:45,3.6,112,34 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) HABRA-DIGHA via Bally - 26|14:00,Non AC Seater (2+3),14:00,02h 40m,16:40,3.8,112,46 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,WBTC (CTC) BARASAT-DIGHA via Bally - 38|15:00,Non AC Seater (2+3),15:00,02h 15m,17:15,3.6,112,39 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,SBSTC-BARASAT - DIGHA - VIA - NIBEDITA SETU - 04:00 - 939,Non AC Seater (2+3),04:00,02h 21m,06:21,3.8,122,51 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 04:00 (DIGHA - 3601,Non AC Seater (2+3),04:45,02h 21m,07:06,3.0,122,46 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 05:40 (DIGHA - 930,Non AC Seater (2+3),06:30,02h 21m,08:51,3.6,122,42 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,SBSTC-BARASAT - DIGHA - VIA - NIBEDITA SETU - 07:00 - 926,Non AC Seater (2+3),07:00,02h 21m,09:21,4.0,122,42 Seats available
+West Bengal,Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria,SBSTC-BARASAT - DIGHA - VIA - NIBEDITA SETU - 11:15 - 927,Non AC Seater (2+3),11:15,02h 21m,13:36,3.4,122,52 Seats available
+West Bengal,Kolkata to Bolpur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-bolpur-west-bengal,WBTC (CTC) KOLKATA -BOLPUR - SURI (AC-VOLVO) - 104|14:30,Volvo AC Seater (2+2),14:30,03h 45m,18:15,4.1,375,37 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|03:45,Non AC Seater (2+3),03:45,04h 35m,08:20,3.9,179,29 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|04:15,Non AC Seater (2+3),04:15,04h 35m,08:50,3.8,179,30 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|04:30,Non AC Seater (2+3),04:30,04h 55m,09:25,3.6,179,15 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:15,Non AC Seater (2+3),05:15,04h 35m,09:50,2.6,179,25 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:35,Non AC Seater (2+3),05:35,04h 35m,10:10,2.7,179,27 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|06:55,Non AC Seater (2+3),06:55,05h 05m,12:00,3.0,179,36 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|12:45,Non AC Seater (2+3),12:45,05h 15m,18:00,3.5,179,50 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 04:00 (DIGHA - 3601,Non AC Seater (2+3),04:00,20h 00m,00:00,3.8,188,43 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 05:40 (DIGHA - 930,Non AC Seater (2+3),05:40,18h 20m,00:00,3.3,188,34 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,City Express,AC Seater (2+3),04:53,05h 27m,10:20,3.3,320,26 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,Snemita Paribahan,AC Seater (2+3),04:55,05h 25m,10:20,3.8,320,23 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,SANTOSH BUS SERVICE,AC Seater (2+3),05:10,05h 10m,10:20,3.8,310,38 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,Satya Paribahan,A/C Executive (2+3),05:20,04h 40m,10:00,3.2,320,58 Seats available
+West Bengal,Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha,Snemita Parisheba,AC Seater (2+3),05:10,05h 10m,10:20,2.9,333,21 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - PURULIA - VIA - ASN - 05:00 - (PRL DEPOT - 262,Non AC Seater (2+3),05:00,04h 30m,09:30,2.1,180,46 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 05:15 (ASN DEPOT) - 481,Non AC Seater (2+3),05:15,05h 00m,10:15,3.7,185,33 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 05:30 (HOWRAH DEPOT) - 776,Non AC Seater (2+3),05:30,04h 30m,10:00,3.4,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - L/S - 06:00 (HOWRAH DEPOT) - 264,Non AC Seater (2+3),06:00,04h 30m,10:30,1.5,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 06:15 (BEL DEPOT) - 303,Non AC Seater (2+3),06:15,05h 00m,11:15,3.9,185,36 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 06:15 (HOWRAH DEPOT) - 405,Non AC Seater (2+3),06:15,04h 30m,10:45,3.0,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 06:30 (ASANSOL DEPOT) - 272,Non AC Seater (2+3),06:30,04h 30m,11:00,4.0,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - PURULIA - VIA - ASN - 06:45 (PRL DEPOT) - 267,Non AC Seater (2+3),06:45,04h 30m,11:15,3.7,180,50 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 07:00 (HOWRAH DEPOT) - 270,Non AC Seater (2+3),07:00,04h 30m,11:30,3.5,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - JHALDA - VIA - ASANSOL - 07:00 - 1088,Non AC Seater (2+3),07:00,05h 10m,12:10,4.0,185,29 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - A/C - 07:50 (HWH DEPOT) - 1182,AC Seater (2+2),07:50,04h 30m,12:20,3.5,360,35 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - VOLVO - 07:50 (BEL DEPOT) - 3957,Volvo AC Seater (2+2),07:50,05h 10m,13:00,1.7,440,46 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 08:00 (BEL DEPOT) - 308,Non AC Seater (2+3),08:00,05h 00m,13:00,3.6,185,45 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 08:15 (HOWRAH DEPOT) - 276,Non AC Seater (2+3),08:15,04h 30m,12:45,4.2,180,49 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 08:30 (ASN DEPOT) - 848,Non AC Seater (2+3),08:30,05h 00m,13:30,2.9,185,47 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-HALDIA - CHITTARANJAN - VIA - KOLKATA - 05:00 - 278,Non AC Seater (2+3),08:45,04h 30m,13:15,4.1,180,49 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - A/C - 08:50 (HOWRAH DEPOT) - 1693,AC Seater (2+2),08:50,04h 30m,13:20,3.5,360,37 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 09:00 (BEL DEPOT) - 309,Non AC Seater (2+3),09:00,05h 00m,14:00,3.9,185,42 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 09:45 (HOWRAH DEPOT) - 280,Non AC Seater (2+3),09:45,04h 30m,14:15,3.6,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 10:30 (HOWRAH DEPOT) - 763,Non AC Seater (2+3),10:30,04h 30m,15:00,2.0,180,51 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - PURULIA - VIA - ASN - 11:00 (HWH DEPOT) - 2681,Non AC Seater (2+3),11:00,04h 30m,15:30,3.8,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 11:40 (ASANSOL DEPOT) - 250,Non AC Seater (2+3),11:40,04h 30m,16:10,3.0,180,50 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - L/S - 12:30 (ASANSOL DEPOT) - 252,Non AC Seater (2+3),12:30,04h 30m,17:00,1.9,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 13:15 (ASANSOL DEPOT) - 767,Non AC Seater (2+3),13:15,04h 30m,17:45,1.6,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 13:30 (ASN DEPOT) - 246,Non AC Seater (2+3),13:30,05h 00m,18:30,3.9,185,44 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-HALDIA - ASANSOL - VIA - KOLKATA - 09:30 (HLD DEPO - 1763,Non AC Seater (2+3),13:45,04h 30m,18:15,3.5,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 14:00 (ASN DEPOT) - 247,Non AC Seater (2+3),14:00,05h 00m,19:00,2.7,185,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - A/C - 14:15 (ASN DEPOT) - 1132,AC Seater (2+2),14:15,05h 00m,19:15,2.8,360,33 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - PURULIA - VIA - ASN - 14:15 (PRL DEPOT) - 292,Non AC Seater (2+3),14:15,04h 30m,18:45,4.3,180,48 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 15:00 (ASANSOL DEPOT) - 257,Non AC Seater (2+3),15:00,04h 30m,19:30,2.3,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 15:00 (ASN DEPOT) - 248,Non AC Seater (2+3),15:00,05h 00m,20:00,2.6,185,42 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - 15:30 (ASN DEPOT) - 249,Non AC Seater (2+3),15:30,05h 00m,20:30,3.8,185,43 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - 16:00 (ASANSOL DEPOT) - 768,Non AC Seater (2+3),16:00,04h 30m,20:30,2.8,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KARUNAMOYEE - ASANSOL - AC - 16:15 (BEL DEPOT) - 1566,AC Seater (2+2),16:15,05h 00m,21:15,2.4,360,37 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - ASANSOL - L/S - 17:00 (ASANSOL DEPOT) - 769,Non AC Seater (2+3),17:00,04h 30m,21:30,4.0,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA - JAMURIA - VIA - DURGAPUR - 17:30 - 300,Non AC Seater (2+3),17:30,04h 30m,22:00,4.5,180,52 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),06:00,04h 15m,10:15,4.5,524,16 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),06:00,04h 00m,10:00,3.8,524,23 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),06:00,04h 15m,10:15,4.3,524,17 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo B11R Multi Axle Seater (2+2),06:15,04h 15m,10:30,4.6,524,22 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo B11R Multi Axle Seater (2+2),06:15,04h 15m,10:30,4.5,524,22 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line (Karunamoyee),Volvo 9600 A/C Seater (2+2),06:30,04h 30m,11:00,4.7,524,25 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),06:30,04h 15m,10:45,4.0,524,23 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line (Karunamoyee),Volvo 9600 A/C Seater (2+2),06:31,04h 29m,11:00,4.5,524,25 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),07:00,04h 30m,11:30,5.0,524,22 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),07:00,04h 30m,11:30,4.0,524,24 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line,Volvo 9600 A/C Seater (2+2),07:05,04h 15m,11:20,4.5,524,30 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo A/C Seater (2+2),07:40,05h 00m,12:40,4.2,524,30 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),07:45,05h 00m,12:45,4.3,524,17 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),07:46,04h 59m,12:45,4.3,524,18 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line (Karunamoyee),Volvo A/C Seater (2+2),08:15,05h 00m,13:15,4.6,524,40 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line (Karunamoyee),Volvo A/C Seater (2+2),08:15,05h 00m,13:15,4.5,524,39 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),08:15,05h 00m,13:15,4.1,524,21 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),08:30,05h 00m,13:30,4.3,524,32 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),08:30,05h 00m,13:30,4.4,524,32 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo A/C Seater (2+2),08:45,05h 00m,13:45,4.4,524,28 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),09:15,05h 00m,14:15,4.5,524,26 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),09:15,05h 00m,14:15,4.1,524,25 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),09:15,05h 00m,14:15,4.3,524,26 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo A/C Seater (2+2),09:50,05h 00m,14:50,4.8,524,34 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),10:00,05h 00m,15:00,4.3,529,49 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),10:00,05h 00m,15:00,3.7,524,49 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line,Volvo A/C Seater (2+2),10:25,05h 00m,15:25,4.7,524,38 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),11:00,05h 00m,16:00,4.3,524,25 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),11:00,05h 00m,16:00,4.4,524,30 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),11:01,04h 59m,16:00,4.3,524,25 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo A/C Seater (2+2),11:30,05h 00m,16:30,4.0,524,37 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),12:00,05h 00m,17:00,3.8,524,32 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),12:00,05h 00m,17:00,3.9,524,28 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),12:00,05h 00m,17:00,4.5,524,36 Seats available
+West Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,Volvo A/C Seater (2+2),12:30,05h 00m,17:30,4.6,524,36 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Esplanade - 176|04:00,Non AC Seater (2+3),04:00,06h 50m,10:50,3.4,179,33 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Bally - 26|10:00,Non AC Seater (2+3),10:00,05h 45m,15:45,3.7,179,35 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Bally - 26|10:40,Non AC Seater (2+3),10:40,05h 45m,16:25,3.6,179,45 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Bally - 26|11:30,Non AC Seater (2+3),11:30,05h 45m,17:15,3.0,179,44 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Bally - 26|12:50,Non AC Seater (2+3),12:50,05h 45m,18:35,4.0,179,47 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Bally - 26|13:25,Non AC Seater (2+3),13:25,05h 45m,19:10,3.3,179,48 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,WBTC (CTC) HABRA-DIGHA via Bally - 26|14:50,Non AC Seater (2+3),14:50,05h 45m,20:35,2.9,179,48 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,SBSTC-DIGHA - HABRA - 09:45 (DIG DEPOT) - 3700,Non AC Seater (2+3),09:45,07h 00m,16:45,3.5,188,52 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,SBSTC-DIGHA - HABRA - 13:40 (DIGHA DEPOT) - 522,Non AC Seater (2+3),13:40,07h 00m,20:40,3.8,188,52 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,SANTOSH BUS SERVICE,AC Seater (2+3),11:25,05h 50m,17:15,4.9,325,30 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,Snemita Parisheba(Santosh),AC Seater (2+3),11:30,05h 40m,17:10,3.4,333,31 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,City Express,AC Seater (2+3),11:35,06h 10m,17:45,3.6,320,22 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,Satya Paribahan,A/C Executive (2+3),11:50,06h 10m,18:00,4.4,320,23 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,Snemita Paribahan,AC Seater (2+3),11:35,06h 20m,17:55,2.9,320,11 Seats available
+West Bengal,Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra,Ankita Paribahan,Non AC Seater (2+3),11:50,06h 10m,18:00,2.7,378,31 Seats available
+West Bengal,Barasat (West Bengal) to Haldia,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-haldia,WBTC (CTC) Habra- Barasat- Haldia - 180|07:10,Non AC Seater (2+3),07:10,03h 35m,10:45,3.8,113,17 Seats available
+West Bengal,Barasat (West Bengal) to Haldia,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-haldia,SBSTC-HABRA - HALDIA - 06:50 (HALDIA) - 1509,Non AC Seater (2+3),07:50,03h 35m,11:25,3.8,124,33 Seats available
+West Bengal,Haldia to Barasat (West Bengal),https://www.redbus.in/bus-tickets/haldia-to-barasat-west-bengal,WBTC (CTC) Habra- Barasat- Haldia - 180|16:45,Non AC Seater (2+3),16:45,03h 15m,20:00,3.8,113,40 Seats available
+West Bengal,Kolkata to Mayapur ISKCON,https://www.redbus.in/bus-tickets/kolkata-to-mayapur-iskcon,WBTC (CTC) KOLKATA - KRISNANAGAR - MAYAPUR (AC- VOLVO) Banglashree Express - 140|07:00,Volvo AC Seater (2+2),07:00,04h 20m,11:20,4.5,255,10 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - CHITTARANJAN - VIA - KOLKATA - 05:00 - 278,Non AC Seater (2+3),05:00,03h 45m,08:45,4.0,110,18 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - ALL STOP - 05:30 (HALDIA DEPOT) - 626,Non AC Seater (2+3),05:30,03h 00m,08:30,4.0,110,7 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 06:20 (Haldia Depot) - 1028,Non AC Seater (2+3),06:20,03h 00m,09:20,3.9,110,34 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 06:40 (Haldia Depot) - 697,Non AC Seater (2+3),06:40,03h 00m,09:40,4.1,110,36 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - NON STOP - 07:15 (Haldia Depot) - 627,Non AC Seater (2+3),07:15,03h 00m,10:15,4.3,135,28 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 07:40 (HALDIA DEPOT) - 634,Non AC Seater (2+3),07:40,03h 00m,10:40,3.9,110,49 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 08.00 (HALDIA DEPOT) - 632,Non AC Seater (2+3),08:00,03h 00m,11:00,3.8,110,45 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - A/C - 08:30 (Haldia Depot) - 1014,AC Seater (2+2),08:30,03h 00m,11:30,4.2,210,32 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 09:00 (Haldia Depot) - 1329,Non AC Seater (2+3),09:00,03h 00m,12:00,3.8,110,52 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - ASANSOL - VIA - KOLKATA - 09:30 (HLD DEPO - 1763,Non AC Seater (2+3),09:30,04h 15m,13:45,3.7,110,52 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - ALL STOP - 10:00 (BEL DEPOT) - 633,Non AC Seater (2+3),10:00,03h 00m,13:00,3.0,110,52 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 11:00 (Haldia Depot) - 1331,Non AC Seater (2+3),11:00,03h 00m,14:00,3.0,110,51 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 12:00 (Belgharia Depot) - 3630,Non AC Seater (2+3),12:00,03h 00m,15:00,3.1,110,51 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 12:20 (HWH DEPOT) - 1092,Non AC Seater (2+3),12:20,03h 00m,15:20,3.4,110,52 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 13:00 (Haldia Depot) - 635,Non AC Seater (2+3),13:00,03h 00m,16:00,3.5,110,51 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - ALL STOP - 13:30 (Haldia Depot) - 629,Non AC Seater (2+3),13:30,03h 00m,16:30,4.2,110,52 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 14:00 (Haldia Depot) - 640,Non AC Seater (2+3),14:00,03h 00m,17:00,4.3,110,52 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 15:00 (Haldia Depot) - 641,Non AC Seater (2+3),15:00,03h 00m,18:00,3.8,110,49 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 16:05 (HALDIA DEPOT) - 1328,Non AC Seater (2+3),16:05,03h 00m,19:05,3.6,110,51 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - ALL STOP - 17:30 (HLD DEPOT) - 630,Non AC Seater (2+3),17:30,03h 00m,20:30,3.8,110,49 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,WBTC (CTC) Habra- Barasat- Haldia - 180|16:45,Non AC Seater (2+3),16:45,02h 45m,19:30,4.0,97,40 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,Droupadi Paribahan,A/C Seater (2+3),06:10,02h 50m,09:00,3.2,160,42 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,Gogol City Service,AC Seater (2+3),07:00,02h 45m,09:45,4.5,149,15 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,Droupadi Bus Service,Non AC Seater (2+3),07:15,03h 00m,10:15,3.3,121,51 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,Gogol City Service,AC Seater (2+3),07:50,02h 55m,10:45,4.2,149,57 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,KRISHNAKALI,A/C Seater (2+3),06:25,02h 50m,09:15,2.2,169,60 Seats available
+West Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,Droupadi City Service,A/C Seater (2+3),07:00,02h 35m,09:35,2.8,180,54 Seats available
+West Bengal,Barasat (West Bengal) to Burdwan,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-burdwan,SBSTC-BONGAON - ASANSOL - VIA - BARASAT - 05:00 (ASN DEP - 1515,Non AC Seater (2+3),07:00,17h 00m,00:00,4.7,100,27 Seats available
+West Bengal,Barasat (West Bengal) to Burdwan,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-burdwan,SBSTC-HABRA - DURGAPUR - VIA - BARASAT - 07:00 (DGP DEPO - 915,Non AC Seater (2+3),08:00,16h 00m,00:00,2.7,100,43 Seats available
+West Bengal,Barasat (West Bengal) to Burdwan,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-burdwan,WBTC (CTC) BARASAT -DURGAPUR - ASANSOL (AC-VOLVO) - 95|07:30,Volvo AC Seater (2+2),07:30,02h 15m,09:45,4.8,210,21 Seats available
+West Bengal,Barasat (West Bengal) to Chowrangee(Kharagpur),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-chowrangee-kharagpur,WBTC (CTC) Habra-Midnapur - 194|05:50,Non AC Seater (2+3),05:50,02h 55m,08:45,4.4,114,12 Seats available
+West Bengal,Barasat (West Bengal) to Chowrangee(Kharagpur),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-chowrangee-kharagpur,WBTC (CTC) Habra-Midnapur - 194|06:25,Non AC Seater (2+3),06:25,02h 55m,09:20,4.6,114,10 Seats available
+West Bengal,Barasat (West Bengal) to Chowrangee(Kharagpur),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-chowrangee-kharagpur,WBTC (CTC) Habra-Midnapur - 194|07:00,Non AC Seater (2+3),07:00,03h 00m,10:00,3.9,114,7 Seats available
+West Bengal,Barasat (West Bengal) to Chowrangee(Kharagpur),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-chowrangee-kharagpur,WBTC (CTC) Barasat-Midnapur - 208|07:45,Non AC Seater (2+3),07:45,02h 00m,09:45,4.5,114,30 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - NAGAR - 05:45 (HOWRAH DEPOT) - 810,Non AC Seater (2+3),05:45,02h 00m,07:45,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - ASANSOL - L/S - 06:00 (HOWRAH DEPOT) - 264,Non AC Seater (2+3),06:00,02h 00m,08:00,3.4,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 06:30 (BWN DEPOT) - 104,Non AC Seater (2+3),06:30,02h 00m,08:30,3.8,100,11 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 07:15 (BWN DEPOT) - 105,Non AC Seater (2+3),07:15,02h 00m,09:15,4.2,100,26 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - LABPUR - VIA KIRNAHAR - 07:25 (HWH DEPOT - 1118,Non AC Seater (2+3),07:25,02h 00m,09:25,3.9,95,47 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 07:45 (BWN DEPOT) - 456,Non AC Seater (2+3),07:45,02h 00m,09:45,4.3,100,24 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - ASANSOL - VOLVO - 07:50 (BEL DEPOT) - 3957,Volvo AC Seater (2+2),07:50,02h 00m,09:50,4.4,210,44 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 08:15 (BWN DEPOT) - 64,Non AC Seater (2+3),08:15,02h 00m,10:15,3.6,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 08:30 (BWN DEPOT) - 106,Non AC Seater (2+3),08:30,02h 00m,10:30,3.6,100,44 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KUDGHAT - RAMPURHAT - VIA - PANAGARH - 07:15 (RPH - 2742,Non AC Seater (2+3),08:30,02h 00m,10:30,3.8,95,51 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 08:45 (BWN DEPOT) - 66,Non AC Seater (2+3),08:45,02h 00m,10:45,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 09:00 (BWN DEPOT) - 107,Non AC Seater (2+3),09:00,02h 00m,11:00,3.6,100,45 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 09:10 (BWN DEPOT) - 67,Non AC Seater (2+3),09:10,02h 00m,11:10,3.5,95,47 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - TARAPITH - VIA - FUTISANKO - 09:30 (FALT - 2889,Non AC Seater (2+3),09:30,02h 00m,11:30,3.8,95,50 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - HARISHPUR - VIA - SURI - 09:30 (BEL DEPO - 1152,Non AC Seater (2+3),09:30,02h 15m,11:45,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 09:50 (BWN DEPOT) - 70,Non AC Seater (2+3),09:50,02h 00m,11:50,2.5,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BARWA - 10:00 (HWH DEPOT) - 3971,Non AC Seater (2+3),10:00,02h 00m,12:00,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 10:05 (BWN DEPOT) - 1055,Non AC Seater (2+3),10:05,02h 00m,12:05,2.8,95,50 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 10:15 (BWN DEPOT) - 712,Non AC Seater (2+3),10:15,02h 00m,12:15,3.4,100,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 10:45 (BWN DEPOT) - 72,Non AC Seater (2+3),10:45,02h 00m,12:45,4.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 10:45 (BWN DEPOT) - 710,Non AC Seater (2+3),10:45,02h 00m,12:45,3.9,100,44 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - A/C - 11:00 (BWN DEPOT) - 75,AC Seater (2+2),11:00,02h 00m,13:00,4.0,180,35 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - PANCHTHUPI - VIA - BWN - 11:00 (HWH DEPO - 3826,Non AC Seater (2+3),11:00,02h 00m,13:00,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 11:05 (KALNA DEPOT) - 938,Non AC Seater (2+3),11:05,02h 00m,13:05,2.9,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - DURGAPUR - L/S - 11:20 (DGP DEPOT) - 758,Non AC Seater (2+3),11:20,02h 00m,13:20,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 11:25 (BWN DEPOT) - 74,Non AC Seater (2+3),11:25,02h 00m,13:25,4.1,95,51 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 11:45 (BWN DEPOT) - 110,Non AC Seater (2+3),11:45,02h 00m,13:45,4.2,100,49 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - NANOOR - 11:55 (BWN DEPOT) - 1110,Non AC Seater (2+3),11:55,02h 00m,13:55,3.9,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - A/C - 12:00 (BWN DEPOT) - 1634,AC Seater (2+2),12:00,02h 00m,14:00,3.6,200,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - SURI - 12:10 (Suri Depot) - 1366,Non AC Seater (2+3),12:10,02h 00m,14:10,3.0,100,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 12:20 - 3010,Non AC Seater (2+3),12:20,02h 00m,14:20,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - ASANSOL - L/S - 12:30 (ASANSOL DEPOT) - 252,Non AC Seater (2+3),12:30,02h 00m,14:30,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 12:30 (BWN DEPOT) - 112,Non AC Seater (2+3),12:30,02h 00m,14:30,4.5,100,48 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 12:35 (BWN DEPOT) - 1050,Non AC Seater (2+3),12:35,02h 00m,14:35,3.8,95,51 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 13:00 (KALNA DEPOT) - 113,Non AC Seater (2+3),13:00,02h 00m,15:00,4.1,100,50 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 13:30 (BWN DEPOT) - 114,Non AC Seater (2+3),13:30,02h 00m,15:30,4.2,100,50 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 14:00 (BWN DEPOT) - 83,Non AC Seater (2+3),14:00,02h 00m,16:00,2.8,95,51 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 14:00 (BWN DEPOT) - 457,Non AC Seater (2+3),14:00,02h 00m,16:00,4.2,100,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 14:00 - 2912,Non AC Seater (2+3),14:00,02h 00m,16:00,3.5,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - CHAKTA - 14:15 (KALNA DEPOT) - 1060,Non AC Seater (2+3),14:15,02h 00m,16:15,4.2,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - KIRNAHAR - 14:35 (BWN DEPOT) - 1047,Non AC Seater (2+3),14:35,02h 00m,16:35,2.3,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 15:00 (BWN DEPOT) - 707,Non AC Seater (2+3),15:00,02h 00m,17:00,4.5,100,50 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 15:10 - 2494,Non AC Seater (2+3),15:10,02h 00m,17:10,4.0,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - LANGALHATA - 15:15 (BWN DEPOT) - 1849,Non AC Seater (2+3),15:15,02h 00m,17:15,4.3,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 15:30 (BWN DEPOT) - 116,Non AC Seater (2+3),15:30,02h 00m,17:30,4.0,100,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BERHAMPUR - VIA - FUTISANKO - 15:45 (BWN - 3757,Express Non AC Seater 2+3,15:45,02h 00m,17:45,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - KANDI - VIA - FUTISANKO - 15:45 (BWN D - 3968,Non AC Seater (2+3),15:45,02h 00m,17:45,3.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - KANDRA - 16:00 (BWN DEPOT) - 689,Non AC Seater (2+3),16:00,02h 00m,18:00,4.1,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 16:00 (BWN DEPOT) - 117,Non AC Seater (2+3),16:00,02h 00m,18:00,4.0,100,40 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - LABPUR - 16:35 (HWH DEPOT) - 3238,Non AC Seater (2+3),16:35,02h 00m,18:35,2.8,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 17:00 (BWN DEPOT) - 118,Non AC Seater (2+3),17:00,02h 00m,19:00,3.8,100,45 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - ASANSOL - L/S - 17:00 (ASANSOL DEPOT) - 769,Non AC Seater (2+3),17:00,02h 00m,19:00,2.7,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - DINANATHPUR - VIA - BURDWAN - 17:30 (BWN - 2952,Non AC Seater (2+3),17:30,02h 00m,19:30,2.7,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 17:30 (BWN DEPOT) - 465,Non AC Seater (2+3),17:30,02h 00m,19:30,3.8,100,48 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 18:15 (BWN DEPOT) - 96,Non AC Seater (2+3),18:15,02h 00m,20:15,3.3,95,52 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 18:15 (BWN DEPOT) - 119,Non AC Seater (2+3),18:15,02h 00m,20:15,3.6,100,46 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - A/C - 18:45 (BWN DEPOT) - 1674,AC Seater (2+2),18:45,02h 00m,20:45,3.4,200,35 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - A/C - 18:45 (BWN DEPOT) - 97,AC Seater (2+2),18:45,02h 00m,20:45,3.4,180,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 19:30 (BWN DEPOT) - 120,Non AC Seater (2+3),19:30,02h 00m,21:30,3.3,100,47 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 20:00 (BWN DEPOT) - 103,Non AC Seater (2+3),20:00,02h 00m,22:00,4.1,95,51 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,WBTC (CTC) Habra - Barasat - Durgapur - Asansol - 100|06:25,Non AC Seater (2+3),06:25,01h 35m,08:00,3.6,81,1 Seat available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),06:00,02h 00m,08:00,4.3,429,19 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),06:00,02h 00m,08:00,4.4,429,16 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo B11R Multi Axle Seater (2+2),06:15,02h 00m,08:15,4.3,429,23 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo B11R Multi Axle Seater (2+2),06:15,02h 00m,08:15,4.6,429,23 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line (Karunamoyee),Volvo 9600 A/C Seater (2+2),06:30,02h 00m,08:30,4.7,429,30 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line (Karunamoyee),Volvo 9600 A/C Seater (2+2),06:31,01h 59m,08:30,4.5,429,48 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),07:00,02h 15m,09:15,4.3,429,24 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),07:00,02h 15m,09:15,4.7,429,24 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line,Volvo 9600 A/C Seater (2+2),07:05,02h 00m,09:05,4.6,429,28 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline,Volvo A/C Seater (2+2),07:40,02h 30m,10:10,4.9,429,35 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),07:45,02h 30m,10:15,4.1,429,20 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),07:46,02h 29m,10:15,4.3,429,21 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),08:15,02h 15m,10:30,4.4,429,20 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line (Karunamoyee),Volvo A/C Seater (2+2),08:15,02h 15m,10:30,4.7,429,45 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line (Karunamoyee),Volvo A/C Seater (2+2),08:15,02h 15m,10:30,4.5,429,45 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),08:30,02h 15m,10:45,4.4,429,35 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),08:30,02h 15m,10:45,4.3,429,35 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline,Volvo A/C Seater (2+2),08:45,02h 30m,11:15,5.0,429,31 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),09:15,02h 30m,11:45,4.3,429,27 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),09:15,02h 00m,11:15,4.4,429,28 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),09:15,02h 30m,11:45,4.3,429,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline,Volvo A/C Seater (2+2),09:50,02h 30m,12:20,4.8,429,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),10:00,02h 45m,12:45,4.3,429,49 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo Multi-Axle A/C Semi Sleeper (2+2),10:00,02h 45m,12:45,4.8,429,49 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line,Volvo A/C Seater (2+2),10:25,02h 10m,12:35,4.4,429,38 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),11:00,02h 30m,13:30,4.5,429,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),11:00,02h 15m,13:15,3.8,429,30 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),11:01,02h 29m,13:30,4.3,429,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline,Volvo A/C Seater (2+2),11:30,02h 30m,14:00,4.9,429,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),12:00,02h 15m,14:15,4.3,429,45 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),12:00,02h 15m,14:15,3.8,429,45 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline,Volvo A/C Seater (2+2),12:30,02h 35m,15:05,4.6,429,37 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),13:00,02h 15m,15:15,4.6,429,31 Seats available
+West Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),13:00,02h 30m,15:30,3.6,429,31 Seats available
+West Bengal,Kolkata to Bakkhali,https://www.redbus.in/bus-tickets/kolkata-to-bakkhali,WBTC (CTC) HABRA - BAKKHALI - 153|07:50,Non AC Seater (2+3),07:50,04h 05m,11:55,2.9,102,44 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA-DIGHA via Bally - 26|03:45,Non AC Seater (2+3),03:45,02h 50m,06:35,2.9,108,36 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA-DIGHA via Bally - 26|04:15,Non AC Seater (2+3),04:15,02h 50m,07:05,4.6,108,37 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA-DIGHA via Bally - 26|04:30,Non AC Seater (2+3),04:30,03h 10m,07:40,3.2,108,15 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA - DIGHA (AC-VOLVO) - 89|04:40,Volvo AC Seater (2+2),04:40,03h 20m,08:00,4.6,280,34 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:15,Non AC Seater (2+3),05:15,02h 50m,08:05,1.8,108,26 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:35,Non AC Seater (2+3),05:35,02h 50m,08:25,2.8,108,42 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) Habra- Barasat- Haldia - 180|06:10,Non AC Seater (2+3),06:10,02h 50m,09:00,3.2,108,14 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA-DIGHA via Bally - 26|06:55,Non AC Seater (2+3),06:55,03h 20m,10:15,3.3,108,34 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,WBTC (CTC) HABRA-DIGHA via Bally - 26|12:45,Non AC Seater (2+3),12:45,03h 25m,16:10,3.2,108,50 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 04:00 (DIGHA - 3601,Non AC Seater (2+3),04:00,20h 00m,00:00,2.6,118,46 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 05:40 (DIGHA - 930,Non AC Seater (2+3),05:40,18h 20m,00:00,2.6,118,42 Seats available
+West Bengal,Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar,SBSTC-HABRA - HALDIA - 06:50 (HALDIA) - 1509,Non AC Seater (2+3),06:50,17h 10m,00:00,2.6,118,50 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 05:00 - (PRL DEPOT - 262,Non AC Seater (2+3),08:15,15h 45m,00:00,3.2,112,50 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 06:45 (PRL DEPOT) - 267,Non AC Seater (2+3),09:50,14h 10m,00:00,3.6,112,52 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KARUNAMOYEE - JHALDA - VIA - ASANSOL - 07:00 - 1088,Non AC Seater (2+3),10:50,03h 55m,14:45,2.3,112,45 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KOLKATA - BAGMUNDI - 08:30 (BEL DEPOT) - 480,Non AC Seater (2+3),12:15,04h 45m,17:00,3.6,117,50 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-BERHAMPUR - PURULIA - VIA - BANKURA - 08:50 (PRL D - 1087,Non AC Seater (2+3),14:15,09h 45m,00:00,3.6,112,52 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - BANKURA - 13:00 (PRL DEP - 290,Non AC Seater (2+3),16:00,08h 00m,00:00,4.5,117,48 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 14:15 (PRL DEPOT) - 292,Non AC Seater (2+3),17:15,06h 45m,00:00,3.6,112,48 Seats available
+West Bengal,Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia,WBTC (CTC) KOLKATA - ASANSOL - PURULIA (AC VOLVO) Banglashree Express - 133|17:00,Volvo AC Seater (2+2),17:00,02h 55m,19:55,3.7,240,38 Seats available
+West Bengal,Jayrambati (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/jayrambati-west-bengal-to-barasat-west-bengal,WBTC (CTC) HABRA-BARASAT- JOYRAMBATI- BISHNUPUR - 177|14:50,Non AC Seater (2+3),14:50,03h 45m,18:35,3.7,90,38 Seats available
+West Bengal,Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra,WBTC (CTC) Habra-Midnapur - 194|05:50,Non AC Seater (2+3),05:50,02h 25m,08:15,4.4,98,7 Seats available
+West Bengal,Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra,WBTC (CTC) Habra-Midnapur - 194|06:25,Non AC Seater (2+3),06:25,02h 25m,08:50,4.3,98,11 Seats available
+West Bengal,Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra,WBTC (CTC) Habra-Midnapur - 194|07:00,Non AC Seater (2+3),07:00,02h 30m,09:30,4.5,98,9 Seats available
+West Bengal,Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra,WBTC (CTC) Barasat-Midnapur - 208|07:45,Non AC Seater (2+3),07:45,01h 40m,09:25,4.4,98,23 Seats available
+West Bengal,Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra,SBSTC-HABRA - MIDNAPUR - 06:20 (MID DEPOT) - 1398,Non AC Seater (2+3),07:20,16h 40m,00:00,4.5,103,24 Seats available
+West Bengal,Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra,SBSTC-BARASAT - MIDNAPUR - 08:00 (MID DEPOT) - 4005,Non AC Seater (2+3),08:00,16h 00m,00:00,4.0,103,52 Seats available
+West Bengal,Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra,SBSTC-BARASAT - MIDNAPUR - 08:30 (MID DEPOT) - 1194,Non AC Seater (2+3),08:30,15h 30m,00:00,3.7,103,45 Seats available
+West Bengal,Habra to Midnapore,https://www.redbus.in/bus-tickets/habra-to-midnapore,WBTC (CTC) Habra-Midnapur - 194|04:55,Non AC Seater (2+3),04:55,04h 05m,09:00,4.0,138,7 Seats available
+West Bengal,Habra to Midnapore,https://www.redbus.in/bus-tickets/habra-to-midnapore,WBTC (CTC) Habra-Midnapur - 194|05:25,Non AC Seater (2+3),05:25,04h 10m,09:35,2.9,138,11 Seats available
+West Bengal,Habra to Midnapore,https://www.redbus.in/bus-tickets/habra-to-midnapore,WBTC (CTC) Habra-Midnapur - 194|05:55,Non AC Seater (2+3),05:55,04h 20m,10:15,4.5,138,10 Seats available
+West Bengal,Habra to Midnapore,https://www.redbus.in/bus-tickets/habra-to-midnapore,SBSTC-HABRA - MIDNAPUR - 06:20 (MID DEPOT) - 1398,Non AC Seater (2+3),06:20,17h 40m,00:00,4.0,143,24 Seats available
+West Bengal,Durgapur (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/durgapur-to-barasat-west-bengal,SBSTC-ASANSOL - BONGAON - VIA - HABRA - 09:25 (ASN DEPOT - 1350,Non AC Seater (2+3),10:35,03h 30m,14:05,3.0,155,46 Seats available
+West Bengal,Durgapur (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/durgapur-to-barasat-west-bengal,SBSTC-DURGAPUR - HABRA - VIA - DUNLOP - 14:05 (DGP DEPOT - 243,Non AC Seater (2+3),14:05,03h 30m,17:35,3.8,155,45 Seats available
+West Bengal,Durgapur (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/durgapur-to-barasat-west-bengal,WBTC (CTC) Habra - Barasat - Durgapur - Asansol - 100|14:25,Non AC Seater (2+3),14:25,03h 00m,17:25,3.8,147,46 Seats available
+West Bengal,Habra to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/habra-to-durgapur,SBSTC-BONGAON - ASANSOL - VIA - BARASAT - 05:00 (ASN DEP - 1515,Non AC Seater (2+3),06:00,05h 00m,11:00,3.4,180,21 Seats available
+West Bengal,Habra to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/habra-to-durgapur,SBSTC-HABRA - DURGAPUR - VIA - BARASAT - 07:00 (DGP DEPO - 915,Non AC Seater (2+3),07:00,05h 00m,12:00,4.3,180,39 Seats available
+West Bengal,Habra to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/habra-to-durgapur,WBTC (CTC) Habra - Barasat - Durgapur - Asansol - 100|05:05,Non AC Seater (2+3),05:05,03h 55m,09:00,3.7,165,1 Seat available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 05:00 - (PRL DEPOT - 262,Non AC Seater (2+3),05:00,06h 30m,11:30,1.9,250,50 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 06:45 (PRL DEPOT) - 267,Non AC Seater (2+3),06:45,06h 30m,13:15,3.1,250,50 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KARUNAMOYEE - JHALDA - VIA - ASANSOL - 07:00 - 1088,Non AC Seater (2+3),07:00,07h 45m,14:45,4.6,250,31 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KOLKATA - BAGMUNDI - 08:30 (BEL DEPOT) - 480,Non AC Seater (2+3),08:30,08h 30m,17:00,4.0,250,50 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 11:00 (HWH DEPOT) - 2681,Non AC Seater (2+3),11:00,06h 30m,17:30,2.7,250,52 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - BANKURA - 12:00 (HWH DEP - 401,Non AC Seater (2+3),12:00,06h 30m,18:30,3.3,250,51 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - BANKURA - 13:00 (PRL DEP - 290,Non AC Seater (2+3),13:00,06h 30m,19:30,2.5,250,49 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 14:15 (PRL DEPOT) - 292,Non AC Seater (2+3),14:15,06h 30m,20:45,3.6,250,48 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,WBTC (CTC) KOLKATA - ASANSOL - PURULIA (AC VOLVO) Banglashree Express - 133|13:45,Volvo AC Seater (2+2),13:45,06h 10m,19:55,3.7,595,37 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,City Queen Bus Service,Non AC Seater (2+2),21:30,10h 00m,07:30,2.2,285,18 Seats available
+West Bengal,Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia,City Queen Bus Service,Non AC Seater (2+2),20:50,08h 10m,05:00,2.3,250,14 Seats available
+West Bengal,Barasat (West Bengal) to Asansol (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-asansol,SBSTC-BONGAON - ASANSOL - VIA - BARASAT - 05:00 (ASN DEP - 1515,Non AC Seater (2+3),07:00,17h 00m,00:00,2.9,185,19 Seats available
+West Bengal,Barasat (West Bengal) to Asansol (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-asansol,WBTC (CTC) BARASAT -DURGAPUR - ASANSOL (AC-VOLVO) - 95|07:30,Volvo AC Seater (2+2),07:30,04h 15m,11:45,3.1,430,21 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) HABRA-DIGHA via Bally - 26|03:45,Non AC Seater (2+3),03:45,02h 20m,06:05,4.4,87,29 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) HABRA-DIGHA via Bally - 26|04:15,Non AC Seater (2+3),04:15,02h 20m,06:35,4.6,87,28 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) HABRA-DIGHA via Bally - 26|04:30,Non AC Seater (2+3),04:30,02h 40m,07:10,4.6,87,15 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) Habra-Midnapur - 194|04:55,Non AC Seater (2+3),04:55,02h 35m,07:30,4.6,87,7 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:15,Non AC Seater (2+3),05:15,02h 20m,07:35,5.0,87,25 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) Habra-Midnapur - 194|05:25,Non AC Seater (2+3),05:25,02h 40m,08:05,4.6,87,11 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) HABRA-DIGHA via Bally - 26|05:35,Non AC Seater (2+3),05:35,02h 20m,07:55,4.6,87,25 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) Habra-Midnapur - 194|05:55,Non AC Seater (2+3),05:55,02h 50m,08:45,4.6,87,8 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) Habra- Barasat- Haldia - 180|06:10,Non AC Seater (2+3),06:10,02h 20m,08:30,4.6,87,14 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) HABRA-DIGHA via Bally - 26|06:55,Non AC Seater (2+3),06:55,02h 50m,09:45,4.2,87,34 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,WBTC (CTC) HABRA-DIGHA via Bally - 26|12:45,Non AC Seater (2+3),12:45,02h 55m,15:40,4.6,87,46 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 04:00 (DIGHA - 3601,Non AC Seater (2+3),04:00,20h 00m,00:00,4.4,97,43 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,SBSTC-HABRA - DIGHA - VIA - NIBEDITA SETU - 05:40 (DIGHA - 930,Non AC Seater (2+3),05:40,18h 20m,00:00,4.4,97,42 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,SBSTC-HABRA - MIDNAPUR - 06:20 (MID DEPOT) - 1398,Non AC Seater (2+3),06:20,17h 40m,00:00,4.4,97,35 Seats available
+West Bengal,Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat,SBSTC-HABRA - HALDIA - 06:50 (HALDIA) - 1509,Non AC Seater (2+3),06:50,17h 10m,00:00,4.4,97,47 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-BARRACKPORE - HALDIA - VIA - BELGHARIA - 06:40 - 902,Non AC Seater (2+3),07:15,03h 00m,10:15,4.1,112,5 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 07:45 (Haldia Depot) - 699,Non AC Seater (2+3),07:45,03h 20m,11:05,4.4,98,13 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 08:10 (HWH DEPOT) - 1972,Non AC Seater (2+3),08:10,03h 00m,11:10,3.8,110,45 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - NON STOP - 8:30 (HALDIA DEPOT) - 567,Non AC Seater (2+3),08:30,03h 00m,11:30,4.3,135,18 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 10:05 (Haldia Depot) - 3985,Non AC Seater (2+3),10:05,03h 00m,13:05,4.8,110,50 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 10:30 (Haldia Depot) - 1078,Non AC Seater (2+3),10:30,03h 00m,13:30,4.2,110,51 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 11:15 (Haldia Depot) - 698,Non AC Seater (2+3),11:15,03h 20m,14:35,3.9,98,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 12.00 (HALDIA DEPOT) - 561,Non AC Seater (2+3),12:00,03h 00m,15:00,4.2,110,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 12.30 (HALDIA DEPOT) - 3987,Non AC Seater (2+3),12:30,03h 00m,15:30,4.6,110,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 13:05 (HALDIA DEPOT) - 4017,Non AC Seater (2+3),13:05,03h 00m,16:05,4.1,110,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-CHITTARANJAN - HALDIA - VIA - KOLKATA - 05:40 - 199,Non AC Seater (2+3),13:30,03h 00m,16:30,4.1,110,50 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - SPL - 14:05 (Haldia Depot) - 3015,Non AC Seater (2+3),14:05,03h 20m,17:25,3.8,98,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - A/C - 14:30 (Haldia Depot) - 980,AC Seater (2+2),14:30,03h 00m,17:30,4.1,210,34 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-ASANSOL - HALDIA - VIA - KOLKATA - 08:05 (HLD DEPO - 744,Non AC Seater (2+3),14:45,03h 00m,17:45,2.6,110,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - NON STOP - 15:30 (HALDIA DEPOT) - 569,Non AC Seater (2+3),15:30,03h 00m,18:30,4.3,135,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 16:30 (Haldia Depot) - 809,Non AC Seater (2+3),16:30,03h 00m,19:30,4.2,110,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 17:00 (Haldia Depot) - 3017,Non AC Seater (2+3),17:00,03h 00m,20:00,3.8,110,52 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 17.30 (HALDIA DEPOT) - 565,Non AC Seater (2+3),17:30,03h 00m,20:30,4.2,110,50 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 18.15 (HALDIA DEPOT) - 566,Non AC Seater (2+3),18:15,03h 00m,21:15,3.5,110,51 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,WBTC (CTC) Habra- Barasat- Haldia - 180|07:40,Non AC Seater (2+3),07:40,03h 05m,10:45,4.1,97,14 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Gogol City Service,AC Seater (2+3),12:50,02h 45m,15:35,4.1,149,58 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Gogol City Service,AC Seater (2+3),13:30,02h 45m,16:15,4.3,149,54 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Satadal Travels,A/C Seater (2+2),14:55,03h 20m,18:15,3.7,153,44 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Satadal Travels,A/C Seater (2+2),14:56,03h 19m,18:15,3.7,170,44 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Diamond City Service,A/C Executive (2+3),15:10,03h 45m,18:55,4.5,170,48 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Droupadi City Service,A/C Seater (2+3),15:20,02h 50m,18:10,3.0,180,56 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Swapna Paribahan,Non AC Seater (2+3),16:55,04h 30m,21:25,3.0,150,25 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Droupadi Paribahan,A/C Seater (2+3),14:10,02h 48m,16:58,2.7,160,61 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,KRISHNAKALI,A/C Seater (2+3),14:45,02h 45m,17:30,2.2,165,61 Seats available
+West Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Droupadi Bus Service,Non AC Seater (2+3),16:20,02h 50m,19:10,2.2,121,54 Seats available
