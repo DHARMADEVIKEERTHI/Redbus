@@ -31,7 +31,13 @@ data['departing_time'] = pd.to_datetime(data['departing_time'], format='%H:%M').
 states = ["All"] + list(data['state'].unique())
 state_choice = st.sidebar.selectbox("Select State", states)
 
-routes = ["All"] + list(data['route_name'].unique())
+# Filter routes based on selected state
+if state_choice == "All":
+    routes = ["All"] + list(data['route_name'].unique())
+else:
+    filtered_routes = data[data['state'] == state_choice]
+    routes = ["All"] + list(filtered_routes['route_name'].unique())
+
 route_choice = st.sidebar.selectbox("Select Route", routes)
 
 bus_types = ["All", "AC", "Non-AC", "Seater", "Sleeper"]
