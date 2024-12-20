@@ -41,7 +41,7 @@ Required Python Libraries:
 6. Star Rating: Filter buses based on their star ratings.
 
 ### How it Works
-# Database Querying: 
+#### Database Querying: 
 The app connects to a MySQL database (redbus), fetches the bus data from the BusDetails table, and displays it on the frontend.
-# Filtering: 
+#### Filtering: 
 Users can select different filter options via the sidebar, and the app dynamically updates the bus details displayed based on these criteria. The filtering is done in real-time by applying conditions on the data from the database.
